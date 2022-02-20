@@ -48,7 +48,7 @@ router.post("/", async (req, res, next) => {
           <h4>${fav.nameTheater} acaba de publicar una obra</h4> <br/>
           <h4>Entra a este link para ver mas informacion</h4> <br/>
 
-          <a href="http://localhost:3000" target="_blank">www.asalallena.com</a> </br>
+          <a href="https://front-pg.vercel.app" target="_blank">www.asalallena.com</a> </br>
          `,
       };
 

@@ -57,9 +57,9 @@ router.post("/pay", async (req, res) => {
   let preference = {
     items: [],
     back_urls: {
-      success: `https://front-pg.vercel.app/ticket/finish/${showId}/${idViewer}/${seatNumber}`,
-      failure: `https://front-pg.vercel.app/ticket/finish/showDetail/${showId}/${idViewer}/${seatNumber}`,
-      pending: `https://front-pg.vercel.app/ticket/finish/showDetail/${showId}/${idViewer}/${seatNumber}`,
+      success: `http://localhost:3000/ticket/finish/${showId}/${idViewer}/${seatNumber}`,
+      failure: `http://localhost:3000/ticket/finish/showDetail/${showId}/${idViewer}/${seatNumber}`,
+      pending: `http://localhost:3000/ticket/finish/showDetail/${showId}/${idViewer}/${seatNumber}`,
     },
     auto_return: "approved",
   };
@@ -79,8 +79,6 @@ router.post("/pay", async (req, res) => {
 });
 
 router.get("/finish/:showId/:idViewer/:seatNumber", async function (req, res) {
-  console.log("esto viene por params ", req.params)
-  console.log("esto viene por query ", req.query)
 
   const { status } = req.query
   
@@ -92,17 +90,60 @@ router.get("/finish/:showId/:idViewer/:seatNumber", async function (req, res) {
     const show = await Shows.findOne({ //busco el show
       where: {
         id : showId
+      },
+      include: {
+        model: Tickets,
+      },
+    })
+    console.log("este es el total inicial ", show.dataValues.total)
+    const tickets = await Tickets.findAll({ //busco los tickets del show
+      where: {
+        showId,
       }
     })
+
+    for( let i = 0; i < tickets.length; i++) { // comparo todos los tickets con los que compré
+      for (let j = 0; j < array.length; j++) {
+        if (tickets[i].dataValues.seatNumber === array[j]) {
+          tickets[i].dataValues.sold = true // si coinciden le cambio la propiedad "sold" a true
+        }
+      }
+    }
+
+    tickets.map(async t => {
+      await Tickets.update(t.dataValues, { // actualizo de a uno los tickets
+        where: {
+          id : t.dataValues.id
+        }
+      })
+    })
+
+    const entradasCompradas = tickets.filter( t => t.dataValues.sold === true)
+    var newTotal = show.dataValues.total
+    for (let i = 0; i < entradasCompradas.length; i++) {
+      //console.log(entradasCompradas[i].dataValues.price)
+      newTotal = newTotal + entradasCompradas[i].dataValues.price
+      //newTotal = newTotal + entradasCompradas[i].dataValues.price
+      //return newTotal
+    }
+    console.log(newTotal)
+    //console.log("estas son  las entradas ", entradasCompradas)
+
     const asientos = show.seatsAvailable // me guardo los asientos que figuran disponibles
+    
     const actualizacion = asientos?.filter( el => { // los comparo con los que voy a comprar y los saco del array
+    
       if (array.indexOf(el) < 0) return el
     });
   
     const updateShow = show.dataValues // entro a los datos del show
+    
     for (let clave in updateShow){
       if (clave === "seatsAvailable"){
         updateShow[clave] = actualizacion // si encuentro la key de los asientos disponibles, lo reemplazo por el nuevo array
+      }
+      if (clave === "total") {
+        updateShow[clave] = newTotal
       }
     }
 

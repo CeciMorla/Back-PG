@@ -39,6 +39,10 @@ module.exports = (sequelize) => {
     ticketsSold: {
       type: DataTypes.INTEGER,
     },
+    total: {
+      type: DataTypes.INTEGER,
+      defaultValue: 0,
+    },
     seatsAvailable: {
       type: DataTypes.ARRAY(DataTypes.STRING)
     },

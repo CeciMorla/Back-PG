@@ -31,14 +31,10 @@ router.post("/google/viewer", async (req, res) => {
       email,
     },
   });
-  console.log('user', user)
-  if(user !== null){
-    res.status(201).send({ id: user.id, token })
-  }else{
-    res.status(401).json({ error: "usuario o contraseña incorrectas" });
-  }
-     
-    
+
+  user
+    ? res.status(201).send({ id: user.id, token })
+    : res.status(401).send({ error: "usuario o contraseña incorrectas" });
 });
 
 router.post("/google/theater", async (req, res) => {
@@ -67,6 +63,7 @@ router.post("/theater", async (req, res) => {
   const theater = await Theaters.findOne({
     where: {
       email,
+      password
     },
   });
   if (theater) {
@@ -103,6 +100,7 @@ router.post("/viewer", async (req, res) => {
   const viewer = await Viewers.findOne({
     where: {
       email,
+      password
     },
   });
   if (viewer) {

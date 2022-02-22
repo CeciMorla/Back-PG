@@ -36,9 +36,16 @@ router.post("/", async (req, res, next) => {
 });
 
 router.post("/pay", async (req, res) => {
-
-  //console.log(req.body)
+try {
+  console.log(req.body)
   const { seatNumber, showId, idViewer } = req.body;
+  const idShow = Buffer.from(showId)
+  const encodeIdSHow = idShow.toString('base64')
+  const viewerId = Buffer.from(idViewer)
+  const encodeIdViewer = viewerId.toString('base64')
+  //console.log('encodeIdSHow',encodeIdSHow)
+  //console.log('encodeIdViewer',encodeIdViewer)
+  
   const allTickets = await Tickets.findAll({
     where: {
       showId: showId,
@@ -57,9 +64,9 @@ router.post("/pay", async (req, res) => {
   let preference = {
     items: [],
     back_urls: {
-      success: `https://front-pg.vercel.app/ticket/finish/${showId}/${idViewer}/${seatNumber}`,
-      failure: `https://front-pg.vercel.app/ticket/finish/showDetail/${showId}/${idViewer}/${seatNumber}`,
-      pending: `https://front-pg.vercel.app/ticket/finish/showDetail/${showId}/${idViewer}/${seatNumber}`,
+      success: `https://front-pg.vercel.app/ticket/finish/${encodeIdViewer}/${encodeIdSHow}/${seatNumber}`,
+      failure: `https://front-pg.vercel.app/ticket/finish/${encodeIdViewer}/${encodeIdSHow}/${seatNumber}`,
+      pending: `https://front-pg.vercel.app/ticket/finish/${encodeIdViewer}/${encodeIdSHow}/${seatNumber}`,
     },
     auto_return: "approved",
   };
@@ -76,16 +83,20 @@ router.post("/pay", async (req, res) => {
   //console.log(response.body);
   const preferenceId = response.body.sandbox_init_point;
   res.send(preferenceId);
+} catch (error) {
+  console.log(error)
+}
+  
 });
 
-router.get("/finish/:showId/:idViewer/:seatNumber", async function (req, res) {
+router.get("/finish/:showId/:idViewer/:seatNumber/:status", async function (req, res) {
 
-  const { status } = req.query
   
-  const { showId, seatNumber } = req.params
   
+  const { showId, seatNumber, status } = req.params
+  console.log('showId',showId)
   const array = seatNumber.split(",")
-
+  console.log(req.params)
   if(status === "approved"){
     const show = await Shows.findOne({ //busco el show
       where: {

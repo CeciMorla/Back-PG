@@ -1243,6 +1243,2141 @@
             "showId": 23,
             "viewerId": null,
             "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "1-5",
+            "showId": 24,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "1-7",
+            "showId": 24,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "2-3",
+            "showId": 24,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "2-7",
+            "showId": 25,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-2",
+            "showId": 25,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-5",
+            "showId": 25,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "4-6",
+            "showId": 25,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-7",
+            "showId": 26,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-9",
+            "showId": 26,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-5",
+            "showId": 26,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-6",
+            "showId": 26,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "1-5",
+            "showId": 27,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "2-4",
+            "showId": 27,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "2-5",
+            "showId": 27,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-1",
+            "showId": 27,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-6",
+            "showId": 27,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "2-8",
+            "showId": 28,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-5",
+            "showId": 28,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "4-3",
+            "showId": 28,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "1-4",
+            "showId": 29,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "2-3",
+            "showId": 29,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-6",
+            "showId": 29,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-1",
+            "showId": 30,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-4",
+            "showId": 30,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-6",
+            "showId": 30,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "4-3",
+            "showId": 30,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "4-6",
+            "showId": 30,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "1-7",
+            "showId": 31,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "1-8",
+            "showId": 31,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-4",
+            "showId": 32,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-8",
+            "showId": 32,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "4-5",
+            "showId": 32,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "4-6",
+            "showId": 32,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-5",
+            "showId": 33,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-8",
+            "showId": 33,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "4-2",
+            "showId": 33,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "4-6",
+            "showId": 33,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "2-8",
+            "showId": 34,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-5",
+            "showId": 34,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-8",
+            "showId": 34,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "2-2",
+            "showId": 35,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "2-5",
+            "showId": 35,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-4",
+            "showId": 35,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "4-2",
+            "showId": 35,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "1-4",
+            "showId": 36,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-4",
+            "showId": 36,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-5",
+            "showId": 36,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-5",
+            "showId": 36,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-7",
+            "showId": 36,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "2-3",
+            "showId": 37,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-5",
+            "showId": 37,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-6",
+            "showId": 37,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "2-1",
+            "showId": 38,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-7",
+            "showId": 38,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "2-5",
+            "showId": 39,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "3-3",
+            "showId": 39,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "3-5",
+            "showId": 39,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "3-6",
+            "showId": 39,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-5",
+            "showId": 40,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-4",
+            "showId": 40,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "4-1",
+            "showId": 40,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "4-5",
+            "showId": 40,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "2-4",
+            "showId": 41,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "2-7",
+            "showId": 41,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "2-9",
+            "showId": 41,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "3-5",
+            "showId": 41,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "2-1",
+            "showId": 42,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "2-3",
+            "showId": 42,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-4",
+            "showId": 42,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-5",
+            "showId": 42,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-8",
+            "showId": 42,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-5",
+            "showId": 43,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-8",
+            "showId": 43,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-5",
+            "showId": 43,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "2-5",
+            "showId": 44,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "3-6",
+            "showId": 44,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "3-9",
+            "showId": 44,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "1-6",
+            "showId": 45,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "1-9",
+            "showId": 45,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "2-3",
+            "showId": 45,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "2-6",
+            "showId": 45,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "2-5",
+            "showId": 46,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "2-7",
+            "showId": 46,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-6",
+            "showId": 46,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "1-3",
+            "showId": 47,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "2-8",
+            "showId": 47,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "2-1",
+            "showId": 48,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "2-4",
+            "showId": 48,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "2-8",
+            "showId": 48,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-5",
+            "showId": 48,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-9",
+            "showId": 48,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "2-5",
+            "showId": 49,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "2-8",
+            "showId": 49,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "3-1",
+            "showId": 49,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "3-6",
+            "showId": 49,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "2-4",
+            "showId": 50,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-5",
+            "showId": 50,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-9",
+            "showId": 50,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "2-5",
+            "showId": 51,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "2-9",
+            "showId": 51,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-5",
+            "showId": 51,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "2-5",
+            "showId": 52,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-6",
+            "showId": 52,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-9",
+            "showId": 52,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "1-3",
+            "showId": 53,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "1-4",
+            "showId": 53,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-5",
+            "showId": 53,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-6",
+            "showId": 53,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-8",
+            "showId": 53,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "3-5",
+            "showId": 54,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "3-6",
+            "showId": 54,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "4-1",
+            "showId": 54,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-3",
+            "showId": 55,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-7",
+            "showId": 55,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-4",
+            "showId": 55,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-8",
+            "showId": 55,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "3-6",
+            "showId": 56,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "4-5",
+            "showId": 56,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-2",
+            "showId": 57,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-6",
+            "showId": 57,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "4-5",
+            "showId": 57,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-1",
+            "showId": 58,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-5",
+            "showId": 58,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-5",
+            "showId": 58,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-9",
+            "showId": 58,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-3",
+            "showId": 59,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-5",
+            "showId": 59,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-7",
+            "showId": 59,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-8",
+            "showId": 59,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-1",
+            "showId": 60,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "4-7",
+            "showId": 60,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-4",
+            "showId": 61,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-8",
+            "showId": 61,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "4-5",
+            "showId": 61,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-5",
+            "showId": 62,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-7",
+            "showId": 62,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-5",
+            "showId": 62,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-8",
+            "showId": 62,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "1-6",
+            "showId": 63,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "2-4",
+            "showId": 63,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "2-5",
+            "showId": 63,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-7",
+            "showId": 63,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "4-2",
+            "showId": 63,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-2",
+            "showId": 64,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-6",
+            "showId": 64,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "4-7",
+            "showId": 64,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-4",
+            "showId": 65,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-7",
+            "showId": 65,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-1",
+            "showId": 65,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-5",
+            "showId": 65,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-8",
+            "showId": 65,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "1-5",
+            "showId": 66,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-7",
+            "showId": 66,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-1",
+            "showId": 66,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "2-5",
+            "showId": 67,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "3-1",
+            "showId": 67,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "3-6",
+            "showId": 67,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "4-2",
+            "showId": 67,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-4",
+            "showId": 68,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-7",
+            "showId": 68,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-5",
+            "showId": 68,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "2-5",
+            "showId": 69,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "2-8",
+            "showId": 69,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "4-3",
+            "showId": 69,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "1-5",
+            "showId": 70,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-3",
+            "showId": 70,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-6",
+            "showId": 70,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-1",
+            "showId": 70,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "2-5",
+            "showId": 71,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-6",
+            "showId": 71,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-9",
+            "showId": 71,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "4-5",
+            "showId": 71,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "4-8",
+            "showId": 71,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-4",
+            "showId": 72,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-8",
+            "showId": 72,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "4-4",
+            "showId": 72,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-4",
+            "showId": 73,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-1",
+            "showId": 73,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "5-3",
+            "showId": 73,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "2-5",
+            "showId": 74,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "2-8",
+            "showId": 74,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "3-3",
+            "showId": 74,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "4-1",
+            "showId": 74,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-1",
+            "showId": 75,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-5",
+            "showId": 75,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "4-7",
+            "showId": 75,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-1",
+            "showId": 76,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-6",
+            "showId": 76,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-9",
+            "showId": 76,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "4-5",
+            "showId": 76,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-6",
+            "showId": 77,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-9",
+            "showId": 77,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "4-5",
+            "showId": 77,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "2-7",
+            "showId": 78,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-4",
+            "showId": 78,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-8",
+            "showId": 78,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-2",
+            "showId": 78,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "2-3",
+            "showId": 79,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "2-4",
+            "showId": 79,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-8",
+            "showId": 79,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "4-5",
+            "showId": 79,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-5",
+            "showId": 80,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-7",
+            "showId": 80,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-2",
+            "showId": 80,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-5",
+            "showId": 80,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-5",
+            "showId": 81,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-9",
+            "showId": 81,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "4-5",
+            "showId": 81,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "4-9",
+            "showId": 81,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "2-5",
+            "showId": 82,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "2-8",
+            "showId": 82,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-4",
+            "showId": 82,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-9",
+            "showId": 82,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "2-3",
+            "showId": 83,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "2-6",
+            "showId": 83,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-4",
+            "showId": 83,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-8",
+            "showId": 83,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "4-2",
+            "showId": 83,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "2-5",
+            "showId": 84,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "2-9",
+            "showId": 84,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-5",
+            "showId": 84,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-8",
+            "showId": 84,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "4-3",
+            "showId": 84,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-4",
+            "showId": 85,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-8",
+            "showId": 85,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "4-5",
+            "showId": 85,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "4-9",
+            "showId": 85,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "2-5",
+            "showId": 86,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-6",
+            "showId": 86,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-9",
+            "showId": 86,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "4-5",
+            "showId": 86,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "2-4",
+            "showId": 87,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-5",
+            "showId": 87,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-8",
+            "showId": 87,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "4-2",
+            "showId": 87,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "4-5",
+            "showId": 87,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-5",
+            "showId": 88,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-7",
+            "showId": 88,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-2",
+            "showId": 88,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-5",
+            "showId": 88,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-6",
+            "showId": 88,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "2-1",
+            "showId": 89,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "2-5",
+            "showId": 89,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-4",
+            "showId": 89,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-8",
+            "showId": 89,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "2-4",
+            "showId": 90,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-6",
+            "showId": 90,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-7",
+            "showId": 90,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-1",
+            "showId": 91,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-5",
+            "showId": 91,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "4-4",
+            "showId": 91,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-5",
+            "showId": 92,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-4",
+            "showId": 92,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "3-7",
+            "showId": 92,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "4-3",
+            "showId": 92,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "4-4",
+            "showId": 92,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "1-5",
+            "showId": 93,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "3-6",
+            "showId": 93,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1100,
+            "seatNumber": "4-1",
+            "showId": 93,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-1",
+            "showId": 94,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-6",
+            "showId": 94,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "4-2",
+            "showId": 94,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "2-5",
+            "showId": 95,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "2-6",
+            "showId": 95,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1400,
+            "seatNumber": "3-2",
+            "showId":95,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "2-6",
+            "showId": 96,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "4-5",
+            "showId": 96,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "4-9",
+            "showId": 96,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "2-7",
+            "showId": 97,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-1",
+            "showId": 97,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-5",
+            "showId": 97,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "4-6",
+            "showId": 97,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-3",
+            "showId": 98,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-8",
+            "showId": 98,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-5",
+            "showId": 99,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-8",
+            "showId": 99,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "4-2",
+            "showId": 99,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "2-3",
+            "showId": 100,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "2-6",
+            "showId": 100,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-4",
+            "showId": 100,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1500,
+            "seatNumber": "3-5",
+            "showId": 100,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-2",
+            "showId": 101,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-5",
+            "showId": 101,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-8",
+            "showId": 101,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-3",
+            "showId": 101,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-7",
+            "showId": 101,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "2-4",
+            "showId": 102,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "2-6",
+            "showId": 102,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-5",
+            "showId": 102,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-9",
+            "showId": 102,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "2-3",
+            "showId": 103,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "2-7",
+            "showId": 103,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-1",
+            "showId": 103,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-6",
+            "showId": 103,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "2-5",
+            "showId": 104,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "4-1",
+            "showId": 104,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1300,
+            "seatNumber": "4-5",
+            "showId": 104,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-5",
+            "showId": 105,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "3-8",
+            "showId": 105,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "4-5",
+            "showId": 105,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1200,
+            "seatNumber": "4-8",
+            "showId": 105,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-1",
+            "showId": 106,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "3-6",
+            "showId": 106,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-3",
+            "showId": 106,
+            "viewerId": null,
+            "sold": false
+        },
+        {
+            "price": 1000,
+            "seatNumber": "4-8",
+            "showId": 106,
+            "viewerId": null,
+            "sold": false
         }
     ],
     "reviews": [
@@ -1749,7 +3884,7 @@
         "Tarde noche de verano en el cementerio municipal del pueblo de Carhué, en el límite con Epecuén, provincia de Buenos Aires. Ante el acecho de una tormenta incipiente y cansadas de la rutina, dos mujeres encargadas del crematorio intentan terminar lo antes posible su jornada laboral. De repente el llamado de su jefe genera que aquellas heridas, ruinas y cenizas del pasado se remuevan y vuelvan a salir a luz.",
         "ticketsQty": 3,
         "seatsAvailable": ["1-5", "1-7", "2-3"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-16",
         "time": "19:00",
@@ -1768,7 +3903,7 @@
         "En esta ocasión el actor y comediante que se hizo conocido en las redes sociales a partir de sus videos de humor simple, espontáneo y sorpresivo, nos presenta un show de material inédito donde toca temas como su adolescencia, la amistad, la familia, pensamientos sobre el amor y la sexualidad de una forma cruda e impredecible.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-7", "3-2", "3-5", "4-6"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 18 años",
         "date": "2022-02-24",
         "time": "22:45",
@@ -1787,7 +3922,7 @@
         "Inmaduros, además de divertida, nos interpela y nos hace pensar en las nuevas y variadas formas de relacionarnos. Sobre todo a dos personas tan diferentes como Alfi y Fideo, que siguen siendo absurdamente inmaduros. Claro que la suya es una inmadurez diferente, una inmadurez de dos hombres que han pasado los 50 y que por esas vueltas de la vida se verán sorprendidos por fuera de lo imaginable y descubrirán, al final de todo esto, la verdadera fuerza de la amistad.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-7", "2-9", "3-5", "3-6"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-26",
         "time": "17:00",
@@ -1806,7 +3941,7 @@
         "Reconocido como uno de los comediantes más talentosos de Buenos Aires, en 'Frágil' Wainraich plantea un recorrido por su vida a través de los personajes que loatraviesan. El resultado es una obra desopilante y profunda a la vez, que combina humor, música, personajes y una gran puesta audiovisual.",
         "ticketsQty": 5,
         "seatsAvailable": ["1-5", "2-4", "2-5", "3-1", "3-6"],
-        "ticketsSold": 5,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "21:00",
@@ -1825,7 +3960,7 @@
         "'Cualquier Cosa Te Llamamos' es un unipersonal que desdramatiza el fracaso, llevándolo al plano de la comedia y contando, a través de distintos personajes, todos los momentos en los que a un artista se le dificulta concretar sus sueños.",
         "ticketsQty": 3,
         "seatsAvailable": ["2-8", "3-5", "4-3"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-24",
         "time": "18:30",
@@ -1844,7 +3979,7 @@
         "“Arlequín está enfermo. Una adivinadora del porvenir le predijo que el día que dedicara más tiempo al sueño que a la botella, moriría a las doce de la noche en punto. Son las ocho y aún duerme.A Pierrot, el mejor amigo de Arlequín, se le ocurre un plan: retrasa el reloj, aunque sea no más que dos horas. Pierrot recurre al Dottora mientras Arlequín se divierte. Colombina, que es la mujer de Pierrot, tiene una cita furtiva con Arlequín. Pierrot, lleno de celos decide vengarse adelantando el reloj. La muerte llega a las 12:00 de la noche... Las Cartas están echadas.”",
         "ticketsQty": 3,
         "seatsAvailable": ["1-4", "2-3", "3-6"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-26",
         "time": "22:00",
@@ -1863,7 +3998,7 @@
         "Parejas en crisis. Parejas con fantasías, miedos, rutina. Parejas con los mismos problemas de todas. Personajes buscándose en el otro sin encontrarse nunca. ¿Que nos pasa cuando llega ese momento? ¿Qué pasa después de cruzar los límites? Hombres y mujeres comunes, gente más o menos sola. Parejas tan simples y extraordinariascomo cualquiera. Personas que se aman, que atraviesan la vida como pueden, quieren ocomo les sale.",
         "ticketsQty": 5,
         "seatsAvailable": ["2-1", "3-4", "3-6", "4-3", "4-6"],
-        "ticketsSold": 5,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 18 años",
         "date": "2022-02-25",
         "time": "22:00",
@@ -1882,7 +4017,7 @@
         "Tras una larga guerra, el general Tito Andrónico vuelve victorioso a Roma. Allí descubrirá que la ciudad en paz puede ser más violenta que los campos de batalla. Una venganza arrastrará a otra y amenazará con destruir la sociedad entera. Una versión alucinada de la obra más cruel y sangrienta de Shakespeare. Una tragedia que se convierte en comedia, una comedia que se convierte en pesadilla, una pesadilla que retumba en el presente..",
         "ticketsQty": 2,
         "seatsAvailable": ["1-7","1-8"],
-        "ticketsSold": 2,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-26",
         "time": "21:30",
@@ -1901,7 +4036,7 @@
         "'Piltrafa' es el unipersonal de humor Stand Up e imitaciones de Leo Lenuzza, más de una hora de comedia pura para que no pares de reírte hablando de todo: infancia, padres separados, películas, TV, la vida cotidiana y mucho más.",
         "ticketsQty": 4,
         "seatsAvailable": ["3-4", "3-8", "4-5", "4-6"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "17:45",
@@ -1920,7 +4055,7 @@
         "Una Jueza de la Nación siente que su mente no funciona muy bien últimamente, por eso decide juntar a las mujeres más importantes de su vida para solicitarles su ayuda.",
         "ticketsQty": 4,
         "seatsAvailable": ["3-5", "3-8", "4-2", "4-6"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "20:30",
@@ -1939,7 +4074,7 @@
         "Griselda Siciliani vuelve al escenario con un espectáculo propio. La multifacética y premiada actriz despliega todo su talento en una comedia ácida, que reflexiona sobre el amor atravesado por un sistema de doma que nos somete a una carrera en busca de completarnos.",
         "ticketsQty": 3,
         "seatsAvailable": ["2-8", "3-5", "3-8"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "20:00",
@@ -1958,7 +4093,7 @@
         "Por motivo del cumpleaños de su tío, Nino y sus amigxs, preparan un show de transformismo con música de rock. Esperan escandalizar a su madre, la reconocida actriz Gloria Arcana. Sin embargo, el cambio de vestimenta provoca algo más que el escándalo: una transición de género. Nino deviene en Niné y además de la atención de su madre, consigue atraer la mirada de Hernán Bartolomeo, reconocido intelectual del campo teatral. De a poco los vínculos estallan, a medida que todo en la vida de Niné se va de-construyendo.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-2", "2-5", "3-4", "4-2"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 18 años",
         "date": "2022-02-25",
         "time": "20:00",
@@ -1977,7 +4112,7 @@
         "Pacha-Marita, el solsticio de una payasa es el unipersonal cómico-ritual en travesía de Leticia Leiva. Este trabajo fue producto de la residencia artística Raymipacha - teatralidades festivas llevada a cabo en junio y julio del 2018 coordinada por el grupo cultural Yama de Ecuador con el apoyo de Iberescena. Leticia fue seleccionada para la experiencia: vivir la celebración del Intiraymi en el Valle de Imbabura y generar una propuesta escénica a partir de ello. A raíz de su formación en clown, apuntó su investigación y eje de trabajo en el rol cómico dentro de la fiesta: la máscara del Aya huma y su respectivo mito, y la inquietud de cómo abordar desde la femeneidad esta tarea. Una vez finalizada la residencia, Leticia continuó su viaje por Ecuador y resto de Sudamérica, retroalimentando su creación con distintas experTencias y puntos de vista.",
         "ticketsQty": 5,
         "seatsAvailable": ["1-4", "2-4", "2-5", "3-5", "3-7"],
-        "ticketsSold": 5,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 18 años",
         "date": "2022-02-24",
         "time": "18:00",
@@ -1996,7 +4131,7 @@
         "“Sin embargo, yo no” es un espectáculo unipersonal, cuyo trabajo surge del cruce entre el material de diferentes biografías de mujeres que hicieron historia, las pinturas de la serie “Mujeres” de la artista plástica Vanesa Martinelli, el juego escénico propuesto por Elina Martinelli en el escenario y Diego Vallarino en la dirección.",
         "ticketsQty": 3,
         "seatsAvailable": ["2-3", "3-5", "3-6"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 18 años",
         "date": "2022-02-26",
         "time": "20:30",
@@ -2015,7 +4150,7 @@
         "La voluntad, teatro a distancia es una ficción en tiempos de la Campaña del Desierto que ironiza sobre los valores de la cultura. Los protagonistas son militares de un fortín perdido, junto a una actriz extranjera que recala por allí en gira con su elenco, en vísperas de los festejos del 25 de Mayo. Una comedia acerca de los malentendidos que surgen de la distancia entre las ideas y las personas, entre las consignas y los hechos.",
         "ticketsQty": 2,
         "seatsAvailable": ["2-1", "3-7"],
-        "ticketsSold": 2,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-24",
         "time": "19:00",
@@ -2034,7 +4169,7 @@
         "Mi abuelo tocaba el acordeón junto a una caja que decía 'Frágil'. Una caja similar a la que mi padre usaba para guardar las obras de arte, que remataba. Mi abuela soñaba con cajas que no abría. Un día le conté que yo también soñaba con una. Me aconsejó que no la abriera. Cuando me animé, la abrí, y entendí a mi papá. Luego abrí otra, y comprendí a mis tíos. Hasta que en la última, me encontré a mí. Mi abuelo había atravesado el mar con su acordeón, oculto en esa caja que decía 'Frágil'. El mismo mar que tuve que atravesar yo, para saber de dónde venía. Ahora entiendo porqué.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-5", "3-3", "3-5", "3-6"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-24",
         "time": "21:30",
@@ -2053,7 +4188,7 @@
         "Una casa. Dos cuartos separados. Un velorio. Dos familias. Un mismo padre. El fallecimiento de Piero Lascia genera un quiebre en sus seis hijos.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-5", "3-4", "4-1", "4-5"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-24",
         "time": "19:30",
@@ -2072,7 +4207,7 @@
         "Es un domingo en familia, ahí donde se tratan las viejas cuestiones o donde se afrontan situaciones nuevas.El espacio se ve atemporal. Una nobleza particular que cubre estos miserables héroes .Esta familia se propaga en un dudoso lujo. Una mentalidad medieval, impulsos de sueños americanos, romances torcidos, van de delirios imperiales a comportamientos de animales primitivos. Una tensión reina en este mundo donde todo parece posible.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-4", "2-7", "2-9", "3-5"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 18 años",
         "date": "2022-02-25",
         "time": "21:00",
@@ -2091,7 +4226,7 @@
         "En plena década del 90, una joven estudiante de Biología entra a trabajar como niñera en la casa de una familia acomodada. Entre peluches y frascos de compota Milena le irá contando a Angie, la bebé que cuida, su vida en tiempo real: sus miedos, sus romances, sus fantasías y el nudo en el que todas esas líneas se cruzan, la pregunta por un futuro incierto.",
         "ticketsQty": 5,
         "seatsAvailable": ["2-1","2-3", "3-4", "3-5", "3-8"],
-        "ticketsSold": 5,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-24",
         "time": "19:15",
@@ -2110,7 +4245,7 @@
         "Luciano Mellera y Lucas Lauriente, dos de los comediantes más destacados y reconocidos de nuestro país, presentarán su show MELLERA LAURIENTE",
         "ticketsQty": 3,
         "seatsAvailable": ["3-5", "3-8", "4-5"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-25",
         "time": "21:45",
@@ -2129,7 +4264,7 @@
         "",
         "ticketsQty": 3,
         "seatsAvailable": ["2-5", "3-6", "3-9"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-24",
         "time": "19:45",
@@ -2148,7 +4283,7 @@
         "En un viejo loteo fracasado Caín, Abel, y su versión conurbana del mito. Caín productor morronero. Abel vagabundo, vendedor de carnada viva en una banquina del asfalto que va al Tigris. Hermanos a los bifes compartiendo ese terreno, su edén berreta, partido al medio, al que nunca podrán volver morada común. La dialéctica imperecedera entre el sedentario y el nómade. Y Tatita, siempre ausente, que regresa al fin ese domingo melancólico.",
         "ticketsQty": 4,
         "seatsAvailable": ["1-6", "1-9", "2-3", "2-6"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-14",
         "time": "20:00",
@@ -2167,7 +4302,7 @@
         "Susana se acaba de quedar sin trabajo, va a cuanta entrevista de trabajo consigue. Hasta que llega a una agencia de colocación de empleo en donde conoce a un funcionario de la misma llamado Alberto. Cuando entra a la entrevista, Alberto la recibirá con recelo y prejuicio, Susana tendrá que hacer valer sus ideas para hacerle ver que ella lucha cada día por ser mejor persona y que su aspecto no determina de forma negativa lo que es por dentro. Alberto le tocará aprender una lección a través del testimonio de Susana, y al conocer la verdad de ella, él mismo se confrontará con la suya, dejando salir sus demonios para así reconciliarse con él mismo.",
         "ticketsQty": 3,
         "seatsAvailable": ["2-5", "2-7", "3-6"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-15",
         "time": "22:00",
@@ -2186,7 +4321,7 @@
         "Casi Normales es la historia de una familia que lucha por ser %A8normal%A8 hasta que, al igual que pasa con todas las familias, la adversidad aparece. La familia está compuesta por un ama de casa con un aparente trastorno de bipolaridad que lucha a diario con tratamientos y psiquiatras. La acompaña su incondicional marido, una hija adolescente que se siente invisible en la casa y hace todo para abandonarla y ,por el contrario , el hijo mayor que por nada del mundo quiere dejar ni a esa casa ni a esa madre.",
         "ticketsQty": 2,
         "seatsAvailable": ["1-3","2-8"],
-        "ticketsSold": 2,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-24",
         "time": "21:15",
@@ -2205,7 +4340,7 @@
         "Los mejores superhéroes son reunidos para ser entrenados y aprender el gran poder y responsabilidad que lleva ser un héroe. Todo marcha bien hasta que en la Escuela se infiltra un malvado, con el objetivo de robarle los superpoderes a todos y así poder tener el control y dominar el mundo. Pero las acciones buenas junto a la amistad siempre ganan y con la ayuda de los chicos podrán detenerlo en la 'Escuela de Superhéroes'",
         "ticketsQty": 5,
         "seatsAvailable": ["2-1", "2-4", "2-8", "3-5", "3-9"],
-        "ticketsSold": 5,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-25",
         "time": "17:30",
@@ -2224,7 +4359,7 @@
         "Una familia tradicional, movida por oscuros intereses económicos, inicia juicio contra una de sus integrantes para declararla incapaz. La joven, pese a sus limitaciones, es defendida por un abogado combativo que pone en cuestión el concepto de normalidad y el criterio esencial de la saludable vida humana.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-5", "2-8", "3-1", "3-6"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2002-02-26",
         "time": "19:00",
@@ -2243,7 +4378,7 @@
         "Ezequiel Campa, uno de los principales referentes del Stand Up en Argentina, sigue presentando CHETO y CHOTO, su cuarto espectáculo unipersonal de stand up, con material totalmente nuevo.",
         "ticketsQty": 3,
         "seatsAvailable": ["2-4", "3-5", "3-9"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-25",
         "time": "21:00",
@@ -2262,7 +4397,7 @@
         "",
         "ticketsQty": 3,
         "seatsAvailable": ["2-5", "2-9", "4-5"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "19:00",
@@ -2281,7 +4416,7 @@
         "Patricia vive con sus hijos mellizos, su madre, su hermana y la novia de uno de los hijos. Ella lleva la casa adelante. Hoy recibirá un llamado que cambiará su vida para siempre.",
         "ticketsQty": 3,
         "seatsAvailable": ["2-5", "3-6", "3-9"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-24",
         "time": "18:30",
@@ -2299,8 +4434,8 @@
         "summary":
         "En un pequeño y conservador pueblo llamado Terranova se despierta una enfermedad mortal de transmisión sexual a la que llaman la desgracia. El escándalo se evidencia cuando Anita, la joven hija de la intendente, es internada en la sala medica por encontrarse infectada. Como si esto no fuera suficiente desgracia, el único doctor del pueblo es encontrado muerto en su consultorio a minutos de haber hallado la cura.",
         "ticketsQty": 5,
-        "seatsAvailable": ["1-3","1-4", "2,5", "2,6", "2,8"],
-        "ticketsSold": 5,
+        "seatsAvailable": ["1-3","1-4", "2-5", "2-6", "2-8"],
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-25",
         "time": "20:45",
@@ -2319,7 +4454,7 @@
         "Partiendo de la famosa pregunta ¿Qué hacen tanto tiempo las mujeres en el baño? La obra despliega un universo en el cual cinco mujeres exponen sus fantasías, se transforman en estrellas de rock, recitan reggaeton, cantan, se tocan, se divierten, se cuestionan y bailan en un espacio en constante mutación.",
         "ticketsQty": 3,
         "seatsAvailable": ["3-5", "3-6", "4-1"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-25",
         "time": "20:30",
@@ -2338,7 +4473,7 @@
         "'Carmela', es una comedia de texto, cuenta la vida de una mujer de 84 años que, en sus años de juventud, fue actriz. En el Hogar de ancianos en donde vive, conoce a Julián, un joven enfermero, tímido e inseguro. El encuentro de estas dos soledades, cambia la realidad de ambos.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-3", "2-7", "3-4", "3-8"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "18:00",
@@ -2357,7 +4492,7 @@
         "'NO SOY YO SOS VOS'  Es un show de humor Stand Up donde los comediantes van a hacer hasta lo imposible para que pases una hora a pura risa. Dos comediantes con estilos diferentes que se complementan muy bien hacen de este show la mejor opción para divertirte y disfrutar!!!",
         "ticketsQty": 2,
         "seatsAvailable": ["3-6", "4-5"],
-        "ticketsSold": 2,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-25",
         "time": "20:00",
@@ -2376,7 +4511,7 @@
         "Fiebre es una tortuga chiquita. Azucena es una mujer que se rehabilita en la casa de un tío hosco con la única compañía de Fiebre, con la cual conversa. Azucena es la que se intoxica en un campo y transgrede los límites de la extravagancia y la gracia, poniéndose agresiva y paranoica con sus amigos.",
         "ticketsQty": 3,
         "seatsAvailable": ["3-2", "3-6", "4-5"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-24",
         "time": "21:00",
@@ -2395,7 +4530,7 @@
         "El día de su cuarenta cumpleaños, Laura tiene una experiencia fugaz pero demoledora: durante su trayecto habitual en metro, un desconocido le sonríe y le susurra algo al oído. Ya en casa, durante la fiesta, esa semilla germinará y acabará bombardeando la 'supuestamente' asentada vida familiar, a pesar de los esfuerzos de Laura por mantener la unión con y entre sus seres queridos.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-1", "2-5", "3-5", "3-9"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-25",
         "time": "20:15",
@@ -2414,7 +4549,7 @@
         "Un nuevo show de Stand up Comedy de Pablo Angeli y Luly, donde el tema de la convivencia, la relación, las idas y vueltas con el Tóxico son el eje de esta vuelta al Teatro del comediante.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-3", "2-5", "3-7", "3-8"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-2",
         "time": "19:30",
@@ -2433,7 +4568,7 @@
         "Un grupo de adolescentes con conflictos entre amores y amistades se ven atrapados en los planes de unos misteriosos visitantes en la ciudad. Deberán emprender labúsqueda de sus familiares y amigos desaparecidos. Lo que no saben es que son parte de un experimento macabro en el que los villanos quieren borrarles sus sueños y esperanzas para sucumbirlos en la oscuridad.",
         "ticketsQty": 2,
         "seatsAvailable": ["3-1", "4-7"],
-        "ticketsSold": 2,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "18:45",
@@ -2452,7 +4587,7 @@
         "El actor Gerardo Romano es Un judío común y corriente, obra escrita por Charles Lewinsky en versión en español de Lázaro Droznes, en la que se refleja el conflicto que debe resolver un judío alemán que vive en Alemania cuando recibe la invitación de un profesor de Ciencias Sociales de una escuela secundaria, cuyos alumnos, luego de estudiar el nazismo quieren conocer a un judío.",
         "ticketsQty": 3,
         "seatsAvailable": ["3-4", "3-8", "4-5"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "20:15",
@@ -2471,7 +4606,7 @@
         "Un viaje hacia un mundo ideal con un repertorio exquisito. Un divertido espectáculo que nos conecta con ese niño que alguna vez fuimos.",
         "ticketsQty": 4,
         "seatsAvailable": ["3-5", "3-7", "4-5", "4-8"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-24",
         "time": "18:00",
@@ -2490,7 +4625,7 @@
         "En 1948 se publicó el libro que modificó la forma de entender la sexualidad hasta nuestros días. El autor fue Alfred Kinsey, un prestigioso entomólogo que decidió, a partir de un problema con la sexualidad de su mujer, investigar lo inexplorado hasta ese momento: El sexo. En su investigación ignoró todas las alarmas éticas y morales para conseguir su objetivo. Destrozó familias, vidas y todo lo que rodeó su trabajo.",
         "ticketsQty": 5,
         "seatsAvailable": ["1-6", "2-4", "2-5", "3-7", "4-2"],
-        "ticketsSold": 5,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 18 años",
         "date": "2022-02-25",
         "time": "22:00",
@@ -2509,7 +4644,7 @@
         "Julia es escritora, Javier es periodista. Dos exitosos, tanto en lo profesional como en lo personal. Se conocieron y se enamoraron ya con la vida resuelta, y pudieron construir una pareja perfecta, madura y feliz. Una noche, mientras esperan a su amiga para cenar, reciben un regalo con una tarjeta portadora de un mensaje peligroso: las palabras allí escritas vuelven a poner sobre la mesa un tema estratégicamente sepultado para cimentar la paz del hogar. Torpemente, los enamorados se enredan en una batalla que ya se pronostica con daños irreparables. Mentiras, secretos y antiguos reproches que son siempre el mismo",
         "ticketsQty": 3,
         "seatsAvailable": ["3-2", "3-6", "4-7"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-24",
         "time": "20:15",
@@ -2528,7 +4663,7 @@
         "Drácula, el musical es uno de los musicales argentinos más importantes. Fue escrito y dirigido por la dupla conformada por Pepe Cibrián y Ángel Mahler y producido por Tito Lectoure.",
         "ticketsQty": 5,
         "seatsAvailable": ["2-4", "2-7", "3-1", "3-5", "3-8"],
-        "ticketsSold": 5,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-25",
         "time": "21:00",
@@ -2547,7 +4682,7 @@
         "Christiane es un homenaje en vida a Christiane Dosne Pasqualini, reconocida investigadora científica, que llegó a los 22 años a Buenos Aires para trabajar junto al Premio Nobel, Bernardo Houssay. Nacida en Francia, criada en Canadá y Argentina por adopción, CDP se dedicó con ferviente pasión a buscar la causa del cáncer en sus ratones de laboratorio. Fue a su vez, la primera de su género en ocupar un asiento en la Academia Nacional de Medicina.",
         "ticketsQty": 3,
         "seatsAvailable": ["1-5", "3-7", "4-1"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "18:15",
@@ -2567,7 +4702,7 @@
         "Dos parejas amigas se encuentran a cenar todos los jueves desde hace más de doce años. Nicolás y Liza ya llegaron al restaurante pero sus amigos no. Los minutos pasan y la misteriosa e inusual demora de los amigos comienza a preocupar.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-5", "3-1", "3-6", "4-2"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-24",
         "time": "18:45",
@@ -2586,7 +4721,7 @@
         "Los personajes retratan las limitaciones,contradicciones y complejos a los que pueden someternos la mirada de losdemás y la propia, sin perder el tono del humor.",
         "ticketsQty": 3,
         "seatsAvailable": ["3-4", "3-7", "4-5"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-25",
         "time": "18:15",
@@ -2605,7 +4740,7 @@
         "30 Días es la relación entrañable de dos íntimos amigos: Juana y Manu. 30 Días comienza la acción cuando Juana decide suicidarse mientras que Manu se entera que ha de morirse. A partir de allí transcurren los mágicos 30 días. 30 Días es una comedia profunda en donde la risa y la emoción son los ejes fundamentales de la historia. 30 Días es un canto a la vida y no a la muerte. 30 Días es un canto a la ilusión y no al fracaso.",
         "ticketsQty": 3,
         "seatsAvailable": ["2-5", "2-8", "4-3"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-24",
         "time": "17:15",
@@ -2624,7 +4759,7 @@
         "Juli Bellese vuelve al teatro estrenando su primer unipersonal 'Casi Adulto'. Cargado de anécdotas familiares, reflexiones sobre dar los primeros pasos en el mundo adulto y con la gracia a la que nos tiene acostumbrados.",
         "ticketsQty": 4,
         "seatsAvailable": ["1-5", "2-3", "2-6", "3-1"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-24",
         "time": "19:00",
@@ -2643,7 +4778,7 @@
         "La dramaturgia de esta obra aborda varios ejes temáticos que van entrelazándose: la locura, la convivencia familiar, la revelación de la verdad y la violencia doméstica.",
         "ticketsQty": 5,
         "seatsAvailable": ["2-5", "3-6", "3-9", "4-5", "4-8"],
-        "ticketsSold": 5,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-25",
         "time": "18:15",
@@ -2662,7 +4797,7 @@
         "Mezcla de historia y de fantasía, La comedia es peligrosa cuenta una trama de suspenso y vodevil que ocurre en la capital del Virreinato del Río de la Plata en 1783. Unos cómicos de la legua pretenden construir un teatro estable y para ello deben enfrentarse al poder de los cabildantes y del obispo. El jamón del sándwich es el virrey. ¿Quién se comerá a quién?",
         "ticketsQty": 3,
         "seatsAvailable": ["3-4", "3-8", "4-4"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-25",
         "time": "18:15",
@@ -2681,7 +4816,7 @@
         "El Lago de los Cisnes irrumpe en la escena teatral presentando una visión y estética moderna. Focalizando en el trauma de toda joven que es alcanzada por los brazos del temido Rothbart, personaje temible, manipulador y sin escrúpulos que hace la vida de cada persona un lamento continuo.",
         "ticketsQty": 3,
         "seatsAvailable": ["3-4", "4-1", "5-3"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-24",
         "time": "18:00",
@@ -2700,7 +4835,7 @@
         "El Cusifai será una experiencia inigualable! El espectador será agasajado como un invitado del mejor Cabaret de los años 50 en la maravillosa ciudad de la Luz. Se sentirá parte de un mundo distinto y estará en contacto con los artistas. Este espectáculo nos propone un viaje en el tiempo, donde la magia del cabaret y la noche serán protagonistas.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-5", "2-8", "3-3", "4-1"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-25",
         "time": "20:00",
@@ -2719,7 +4854,7 @@
         "Cuatro mujeres entrelazadas por el dolor, rebeldía, amores frustrados, encontrando en la rutina un consuelo abrazador que atenúa las heridas del pasado... El sufrimiento es la sombra que al perseguirlas no dejan espacio para vislumbrar el futuro tan deseado: La claridad de sus destinos... Ninguna mujer puede escapar al dolor que se niega sentir",
         "ticketsQty": 3,
         "seatsAvailable": ["3-1", "3-5", "4-7"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "18:30",
@@ -2738,7 +4873,7 @@
         "Tomás Quintín Palma nació en una familia de payasos. Piripincho Rigattuzzo es un célebre payaso rosarino y durante toda su infancia fue una estrella absoluta en la ciudad. Junto a él actuaba su vieja, su viejo, y varios familiares más.",
         "ticketsQty": 4,
         "seatsAvailable": ["3-1", "3-6", "3-9", "4-5"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-26",
         "time": "20:45",
@@ -2757,7 +4892,7 @@
         "Lucía llega a casa de Radojka y encuentra a Gloria con una terrible noticia: Radojka murió, es por eso que ambas deciden mantenerla 'aparentemente viva' en el freezer para seguir cobrando su sueldo hasta que el plan se les empieza a ir de las manos cuando el hijo de Radojka viaja a visitarla.",
         "ticketsQty": 3,
         "seatsAvailable": ["3-6", "3-9", "4-5"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-25",
         "time": "17:30",
@@ -2776,7 +4911,7 @@
         "",
         "ticketsQty": 4,
         "seatsAvailable": ["2-7", "3-4", "3-8", "4-2"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-25",
         "time": "18:45",
@@ -2795,7 +4930,7 @@
         "Susan, de 20 años, es abordada mientras cena con su novio en un restaurante por una encantadora pareja de ancianos que se muestra impresionada por el parecido de Susan con Verónica, fallecida hace mucho tiempo. Susan y su novio acompañan a la pareja hasta la mansión para ver el retrato de Verónica y comprobar el parecido. Allí comienza esta intrigante pesadilla con un final inesperado.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-3","2-4", "3-8", "4-5"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 18 años",
         "date": "2022-02-26",
         "time": "22:00",
@@ -2814,7 +4949,7 @@
         "Un musical basado en el libro de Susy Shock con dirección musical de Carlos Gianni. Es un manifiesto de experiencias amorosas criando en la diversidad. Una propuesta infantil / familiar con un lenguaje poético, cotidiano y cercano a las infancias.",
         "ticketsQty": 4,
         "seatsAvailable": ["3-5", "3-7", "4-2", "4-5"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-25",
         "time": "17:00",
@@ -2833,7 +4968,7 @@
         "El clímax es la parte más importante de una historia. Normalmente se presenta en el desarrollo, y a veces en el final. En esta en particular encontramos varios y diferentes, generando una ciclogénesis explosiva por la mezcla de géneros y vicisitudes que plantea su Director, Casper Esposito, con sus atractivos protagonistas. (Mariana Genesio Peña, Facundo Gambandé, Alejo Ortiz y Dedé Romano)",
         "ticketsQty": 4,
         "seatsAvailable": ["3-5", "3-9", "4-5", "4-9"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 18 años",
         "date": "2022-02-26",
         "time": "22:30",
@@ -2852,7 +4987,7 @@
         "La Reina de la Nieve y su hermana se embarcan en un viaje en lo profundo de un bosque donde habitan los guardianes de los cuatro elementos. Su objetivo principal es desencantar el embrujo que le dejó un hechicero a una de ellas, volviéndola fría con la otra. La Reina de la Nieve debe recordar el pasado antes de que su corazón se congele por completo.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-5", "2-8", "3-4", "3-9"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-26",
         "time": "21:00",
@@ -2871,7 +5006,7 @@
         "La Reina de las Nieves se aventura en una tierra desconocida y misteriosa, donde sus poderes se pondrán a prueba hasta límites insospechados. A lo largo del viaje, descubrirá la vida que estaba destinada a vivir, pero al hacerlo, corre el riesgo de perderlo todo y de perderse ella misma.",
         "ticketsQty": 5,
         "seatsAvailable": ["2-3", "2-6", "3-4", "3-8", "4-2"],
-        "ticketsSold": 5,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-25",
         "time": "20:00",
@@ -2890,7 +5025,7 @@
         "Encantadora obra maestra de Strauss sobre la heroína mitológica griega y Baco, quién se encuentra bajo el encantamiento de una hechicera.",
         "ticketsQty": 5,
         "seatsAvailable": ["2-5", "2-9", "3-5", "3-8", "4-3"],
-        "ticketsSold": 5,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-25",
         "time": "19:15",
@@ -2909,7 +5044,7 @@
         "Una historia de suspenso, que involucra al público haciéndolo sentir parte de cada decisión de estos tres hombres 'de bien' enfrentados a una encrucijada moral, que los arrastra a los lugares más oscuros de sus propias ambiciones.",
         "ticketsQty": 4,
         "seatsAvailable": ["3-4", "3-8", "4-5", "4-9"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-25",
         "time": "21:00",
@@ -2928,7 +5063,7 @@
         "El viento en un violín es una historia de amor, de amores desgarrados, de amores incomprendidos, de encuentros y desencuentros, de clases sociales diferentes, de maltratos, de injusticias, de violencia, de sueños imposibles que para hacerlos posibles hay que cruzar aquel límite impensable.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-5", "3-6", "3-9", "4-5"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-25",
         "time": "22:15",
@@ -2947,7 +5082,7 @@
         "",
         "ticketsQty": 5,
         "seatsAvailable": ["2-4", "3-5", "3-8", "4-2", "4-5"],
-        "ticketsSold": 5,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-24",
         "time": "19:15",
@@ -2966,7 +5101,7 @@
         "Una madre 'especial' obliga a su hijo a volver de Nueva York para resolver un insólito problema familiar. El intentará, con suma diplomacia y paciencia, solucionar el conflicto pero el carácter insoportable de la mamá lo sacará de quicio hasta llevarlo a la desesperación.",
         "ticketsQty": 5,
         "seatsAvailable": ["2-5", "2-7", "3-2", "3-5", "3-6"],
-        "ticketsSold": 5,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-24",
         "time": "19:45",
@@ -2985,7 +5120,7 @@
         "Canticuenticos es -sin dudas- una de las mejores propuestas musicales para acompañar las infancias de estos tiempos: con canciones propias sobre ritmos argentinos y latinoamericanos, las letras tocan todos los tópicos, desde los más divertidos y disparatados hasta los más difíciles y delicados.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-1", "2-5", "3-4", "3-8"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-24",
         "time": "17:00",
@@ -3004,7 +5139,7 @@
         "Es el día del cumpleaños de Branko. A instancias de este festejo se desencadenan una serie de acontecimientos que revelan un singular funcionamiento familiar. Lo desopilante, lo hostil, lo tierno irá entretejiendo una trama entrañable...",
         "ticketsQty": 3,
         "seatsAvailable": ["2-4", "3-6", "4-7"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-2",
         "time": "18:00",
@@ -3023,7 +5158,7 @@
         "La pieza teatral recorre la geografía de los misterios del hombre, por debajo de las certezas. Es un recorrido por nuestra historia, pero también, y sobre todo, una invitación a 'sabernos uno cualquiera, pero que sabe que es uno cualquiera', y ponernos en una perspectiva en el universo, para asumir lo que a veces ignoramos como humanos.",
         "ticketsQty": 3,
         "seatsAvailable": ["3-1", "3-5", "4-4"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-26",
         "time": "21:00",
@@ -3042,7 +5177,7 @@
         "Esta obra cuenta la historia de seres encerrados en un mundo sin salida, colmados de odio, reproches y violencia. Cuatro hermanos marcados por la cruel y despiadada crianza de un padre golpeador. Sus vidas, llenas de rencores, los llevaron a cada uno de ellos a seguir el mismo camino.",
         "ticketsQty": 5,
         "seatsAvailable": ["2-5", "3-4", "3-7", "4-3", "4-4"],
-        "ticketsSold": 5,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-25",
         "time": "20:15",
@@ -3061,7 +5196,7 @@
         "Noelia Custodio presenta Algo Satánico",
         "ticketsQty": 3,
         "seatsAvailable": ["1-5", "3-6", "4-1"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-25",
         "time": "21:15",
@@ -3080,7 +5215,7 @@
         "Un tercero irrumpe en la vida de una pareja feliz y el mundo que habían construido se sacude. Hasta acá, una obra más. Pero lo que ya conocés, se queda solo en esa frase. SOMOS NOSOTROS es una comedia explosiva que llega para poner en escena esas preguntas que están dando vueltas en tu cabeza y que son las protagonistas de las charlas con tus amigos.",
         "ticketsQty": 3,
         "seatsAvailable": ["3-1", "3-6", "4-2"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "20:00",
@@ -3099,7 +5234,7 @@
         "Mi Amigo Invencible vuelve al escenario del ND/Teatro tras haber debutado allí sin público con su único audiovisual realizado en tiempos de aislamiento.",
         "ticketsQty": 3,
         "seatsAvailable": ["2-5", "2-6", "3-2"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "21:45",
@@ -3118,7 +5253,7 @@
         "Una comedia dramática sobre la vulnerable relación de una madre y su hijo en una ciudad de campo. La llegada de una prima de la capital cambiará todo para siempre.",
         "ticketsQty": 3,
         "seatsAvailable": ["2-6", "4-5", "4-9"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "21:15",
@@ -3137,7 +5272,7 @@
         "Años 70, en el barrio de Avellaneda. Amanda y sus hijas, Eli y Ale, se ven forzadas a compartir cada movimiento vital con Zita (cuñada de Amanda) y con todos los parientes de Miguel (esposo de Amanda y padre de las chicas), viviendo en una casa donde la humedad y el desborde de cloacas hacen estragos, tanto en la casa como en las personas que la habitan. Hasta que un día, ese día, la última gota de invasión desata un desastre familiar. ¿Podrá sobrellevarlo la madre?, ¿lo podrá hacer el padre? Qué queda para las hijas?.",
         "ticketsQty": 4,
         "seatsAvailable": ["2-7", "3-1", "3-5", "4-6"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-24",
         "time": "19:30",
@@ -3156,7 +5291,7 @@
         "El Tata Castiñeiras es leyenda del Juventud Unida, y ya retirado, se lo llama para rendirle su merecido homenaje. Cuando uno sale a la cancha tiene que estar preparado, porque lo espera el paraíso... o el infierno, decía su amigo el Rulo. La obra lo encuentra al Tata en el vestuario del club, tras haber salido lesionado en su propio homenaje, atravesado por el fútbol, su vida amorosa y la realidad política del país.",
         "ticketsQty": 2,
         "seatsAvailable": ["4-3", "4-8"],
-        "ticketsSold": 2,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-25",
         "time": "18:00",
@@ -3175,7 +5310,7 @@
         "Pier Paolo Pasolini es, sin lugar a dudas, uno de los mayores exponentes intelectuales de la Italia de la pos guerra. Admirado, elogiado, premiado, detestado, perseguido y hasta censurado pero jamás ignorado. En este sentido, Pasado, Presente, Pasión, recorre con rigor histórico y licencia de ficción, toda su biografía. Acercarnos a los primeros años de su vida y poner en contexto su existencia, llena de sentido su corta pero vastísima producción. ",
         "ticketsQty": 3,
         "seatsAvailable": ["3-5", "3-8", "4-2"],
-        "ticketsSold": 3,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-25",
         "time": "18:45",
@@ -3194,7 +5329,7 @@
         "'LO QUE SE NOS CANTA Y BAILA' es un show en donde se entremezclan las mejores canciones del cine, del teatro musical y populares de todos los tiempos, con un gran trabajo vocal e interpretativo complementado con impactantes coreografías y ensamblado con maravillosos músicos en vivo!",
         "ticketsQty": 4,
         "seatsAvailable": ["2-3", "2-6", "3-4", "3-5"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-24",
         "time": "17:30",
@@ -3213,7 +5348,7 @@
         "Bajo tres miradas: una heterosexual, otra gay y otra lésbica, la puesta en escena Pieza inconclusa para sofá y dos cuerpos aborda la universalidad del amor, con el mismo formato, mismas escenas y líneas, la obra retrata la relación de una pareja desde el primer 'flechazo' hasta el enamoramiento, la decisión de vivir bajo el mismo techo y todo lo que se deriva a raíz de no haber conocido lo suficiente a la persona amada, y qué tan complejas pueden ser las relaciones amorosas en un mundo en el que, a pesar de la tecnología, se está más incomunicado.",
         "ticketsQty": 5,
         "seatsAvailable": ["3-2", "3-5", "3-8", "4-3", "4-7"],
-        "ticketsSold": 5,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-26",
         "time": "19:20",
@@ -3232,7 +5367,7 @@
         "",
         "ticketsQty": 4,
         "seatsAvailable": ["2-4", "2-6", "3-5", "3-9"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-24",
         "time": "19:30",
@@ -3251,7 +5386,7 @@
         "Todas las funciones son distintas y delirantes! No es una obra de teatro, no es stand up, es Las Chicas de la Culpa, una juntada con tus amigas más zarpadas!",
         "ticketsQty": 4,
         "seatsAvailable": ["2-3", "2-7", "3-1", "3-6"],
-        "ticketsSold": 4,
+        "ticketsSold": 0,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "21:15",
@@ -3270,7 +5405,7 @@
             "Eva y Victoria es una imaginaria reunión entre Eva Perón y Victoria Ocampo, Eva acude a ver a Victoria con la excusa de obtener apoyo para tratar en el Congreso de la Nación el proyecto de ley que permita votar a las mujeres. Pero realmente es el encuentro de dos clases sociales, de dos formas de pensar la vida y el país a todas luces antagónicas, mostrando las ideas irreconciliables que durante décadas nos dividió como nación y llevado por una esgrima verbal digna de aquellas dos formidables adversarias.",
             "ticketsQty": 3,
             "seatsAvailable": ["2-5", "4-1", "4-5"],
-            "ticketsSold": 3,
+            "ticketsSold": 0,
             "rated": "Apta para mayores de 13 años",
             "date": "2022-02-24",
             "time": "19:45",
@@ -3289,7 +5424,7 @@
             "Su anterior unipersonal #SACADA fue presentado durante los años 2016 y 2017. En televisión, grabó tres especiales para Comedy Central (también emitidos por TELEFE), participó en 'La culpa es de Colón, Edición Mujeres' y en 'Drunk History', todos emitidos por el mismo canal.",
             "ticketsQty": 4,
             "seatsAvailable": ["3-5", "3-8", "4-5", "4-8"],
-            "ticketsSold": 4,
+            "ticketsSold": 0,
             "rated": "Apta para mayores de 13 años",
             "date": "2022-02-26",
             "time": "21:45",
@@ -3308,7 +5443,7 @@
             "Este espectáculo cuenta, a la manera de un culebrón clásico latinoamericano, un capítulo de la exitosa telenovela Tu Falta de Querer, donde no faltan todos los ingredientes típicos del género: los amores contrariados, los hijos perdidos, las amnesias colectivas. En el escenario los intérpretes cuentan esta historia donde aparecen, cantadas en vivo, las canciones más reconocidas del repertorio latino.",
             "ticketsQty": 4,
             "seatsAvailable": ["3-1", "3-6", "4-3", "4-8"],
-            "ticketsSold": 4,
+            "ticketsSold": 0,
             "rated": "Apta para mayores de 13 años",
             "date": "2022-02-24",
             "time": "19:30",

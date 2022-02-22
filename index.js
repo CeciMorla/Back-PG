@@ -19,7 +19,7 @@ conn.sync({ force: false }).then(async () => {
   // getAllReviews();
   
 
-  server.listen(PORT || 3001, () => {
+  server.listen(PORT, () => {
     console.log("%s listening at 3001 - Data base loaded."); // eslint-disable-line no-console
   });
 });

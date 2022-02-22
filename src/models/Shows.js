@@ -52,7 +52,6 @@ module.exports = (sequelize) => {
         "Apta para mayores de 13 años",
         "Apta para mayores de 16 años",
         "Apta para mayores de 18 años",
-        "Exhibición condicionada."
       ),
       allowNull: false,
     },

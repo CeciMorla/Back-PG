@@ -11,7 +11,7 @@ const postShows = async (
   image,
   summary,
   ticketsQty,
-  seatsAvalaible,
+  seatsAvailable,
   rated,
   date,
   time,
@@ -26,20 +26,20 @@ const postShows = async (
       image,
       summary,
       ticketsQty,
-      seatsAvalaible,
+      seatsAvailable,
       rated,
       date,
       time,
       score,
       originPrice,
     });
-    console.log(theaterName);
+    //console.log(theaterName);
     const theater = await Theaters.findOne({
       where: {
         name: theaterName,
       },
     });
-    console.log(theater);
+    //console.log(theater);
     await theater.addShows(newShow);
     const favorite = await Favorites.findOne({
       where: {

@@ -69,10 +69,13 @@ router.get("/", async (req, res, next) => {
 
 router.get("/:id", async (req, res) => {
   const { id } = req.params;
-  // console.log(id);
+  console.log('id',id);
   try {
-    const detailShow = await getShowById(id);
-    res.send(detailShow);
+    if(id !== NaN){
+      const detailShow = await getShowById(id);
+      res.send(detailShow);
+    }
+    
   } catch (error) {
     console.log(error);
   }

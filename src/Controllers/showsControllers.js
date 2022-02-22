@@ -57,6 +57,7 @@ const postShows = async (
 const getAllShows = async () => {
   //console.log("esto es api.shows ", api.shows)
   const allShows = await Shows.findAll({
+    order: ["id"],
     include: [{
       model: Theaters,
     }, {

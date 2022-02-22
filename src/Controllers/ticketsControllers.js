@@ -35,6 +35,7 @@ const postTickets = async (price, seatNumber, nameShow, idViewer) => {
 
 const getAllTickets = async () => {
   const allTickets = await Tickets.findAll({
+  order: ["id"],
   include: [{
     model: Shows
   },{

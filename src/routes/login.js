@@ -87,7 +87,7 @@ router.post("/theater", async (req, res) => {
       //   token,
       // });
 
-      res.status(200).json({ isLogged, id: theater.id });
+      res.status(200).json({ isLogged, id: theater.id, img : theater.image});
     }
   } else {
     res.status(401).send({ error: "usuario o contraseña incorrectas" });
@@ -122,7 +122,7 @@ router.post("/viewer", async (req, res) => {
       //   isViewer: viewer.isViewer,
       //   token,
       // });
-      res.status(200).json({ isLogged, id: viewer.id });
+      res.status(200).json({ isLogged, id: viewer.id, img: viewer.image });
     }
   } else {
     res.status(401).send({ error: "usuario o contraseña incorrectas" });

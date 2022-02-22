@@ -30,6 +30,7 @@ const postViewersRegistration = async (
 const getAllViewers = async () => {
   try {
     const allViewers = await Viewers.findAll({
+      order: ["id"],
       include: [
         {
           model: Tickets,

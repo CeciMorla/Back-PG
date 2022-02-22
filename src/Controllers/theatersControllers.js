@@ -45,7 +45,9 @@ const postTheatersRegistration = async (
 };
 
 const getAllTheaters = async () => {
-  const allTheaters = await Theaters.findAll({});
+  const allTheaters = await Theaters.findAll({
+    order: ["id"],
+  });
   if (!allTheaters.length) {
     const allTheatersdb = await Theaters.bulkCreate(api.teatros);
     return allTheatersdb;

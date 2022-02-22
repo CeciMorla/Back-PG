@@ -1,7 +1,7 @@
 const { Theaters, Favorites, Viewers, Shows, FavoritesViewers, Tickets, Reviews } = require("../db");
 const api = require("../../db.json")
 
-const getAllFavoritesViewers = async () =>{
+const getAllData = async () =>{
     try {
 
         const allTheaters = await Theaters.findAll({});
@@ -77,12 +77,10 @@ const getAllFavoritesViewers = async () =>{
             if(!allReviews.length){ 
                 const allReviewsdb = await Reviews.bulkCreate(api.reviews)
             }
-        
-
-        
+            
     } catch (error) {
         console.log(error)
     }
 }
 
-module.exports = { getAllFavoritesViewers }
+module.exports = { getAllData }

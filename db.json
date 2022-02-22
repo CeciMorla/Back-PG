@@ -1245,25 +1245,25 @@
             "sold": false
         },
         {
-            "price": 1400,
+            "price": 1120,
             "seatNumber": "1-5",
             "showId": 24,
-            "viewerId": null,
-            "sold": false
+            "viewerId": 1,
+            "sold": true
         },
         {
-            "price": 1400,
+            "price": 1120,
+            "seatNumber": "1-6",
+            "showId": 24,
+            "viewerId": 1,
+            "sold": true
+        },
+        {
+            "price": 1120,
             "seatNumber": "1-7",
             "showId": 24,
-            "viewerId": null,
-            "sold": false
-        },
-        {
-            "price": 1400,
-            "seatNumber": "2-3",
-            "showId": 24,
-            "viewerId": null,
-            "sold": false
+            "viewerId": 1,
+            "sold": true
         },
         {
             "price": 1200,
@@ -1784,53 +1784,39 @@
             "sold": false
         },
         {
-            "price": 1500,
-            "seatNumber": "1-6",
+            "price": 1125,
+            "seatNumber": "1-8",
             "showId": 45,
-            "viewerId": null,
-            "sold": false
+            "viewerId": 2,
+            "sold": true
         },
         {
-            "price": 1500,
+            "price": 1125,
             "seatNumber": "1-9",
             "showId": 45,
-            "viewerId": null,
-            "sold": false
+            "viewerId": 2,
+            "sold": true
         },
         {
-            "price": 1500,
-            "seatNumber": "2-3",
-            "showId": 45,
-            "viewerId": null,
-            "sold": false
-        },
-        {
-            "price": 1500,
-            "seatNumber": "2-6",
-            "showId": 45,
-            "viewerId": null,
-            "sold": false
-        },
-        {
-            "price": 1200,
+            "price": 900,
             "seatNumber": "2-5",
             "showId": 46,
-            "viewerId": null,
-            "sold": false
+            "viewerId": 3,
+            "sold": true
         },
         {
-            "price": 1200,
+            "price": 900,
             "seatNumber": "2-7",
             "showId": 46,
-            "viewerId": null,
-            "sold": false
+            "viewerId": 3,
+            "sold": true
         },
         {
-            "price": 1200,
-            "seatNumber": "3-6",
+            "price": 900,
+            "seatNumber": "2-6",
             "showId": 46,
-            "viewerId": null,
-            "sold": false
+            "viewerId": 3,
+            "sold": true
         },
         {
             "price": 1200,
@@ -3452,7 +3438,7 @@
         },
         {
             "name": "Amame",
-            "genre": "Monologo",
+            "genre": "Monólogo",
             "length": "120 minutos",
             "image": "https://storage.lacapitalmdp.com/2018/12/AMAME-2.jpg",
             "summary":
@@ -3557,7 +3543,7 @@
             "genre": "Comedia",
             "length": "90 minutos",
             "image":
-            "https://www.multiteatro.com.ar/img/obras/272-foto-sm.jpg",
+            "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/art.jpg",
             "summary":
             "Serge, Marc e Ivan son amigos desde siempre. La compra de un cuadro blanco, hace tambalear los valores que creían compartir, ¿Cuánto conocemos, en realidad, a nuestros mejores amigos? En la historia de esta amistad ninguno volverá a ser el de antes, aunque entre amigos siempre queda lugar para el perdón y, tal vez, para un nuevo comienzo.",
             "ticketsQty": 4,
@@ -3574,7 +3560,7 @@
         },
         {
             "name": "Fracaso yotuve",
-            "genre": "Monologo",
+            "genre": "Monólogo",
             "length": "40 minutos",
             "image":
             "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/88/000235888.jpg",
@@ -3597,7 +3583,7 @@
             "genre": "Comedia",
             "length": "80 minutos",
             "image":
-            "https://www.multiteatro.com.ar/img/obras/269-foto-sm.jpg",
+            "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/brujas.jpg",
             "summary":
             "Una historia de cinco ex-compañeras de un colegio religioso que se juntan después de mucho tiempo para cenar en la casa de una de ellas y se desata una noche imperdible.",
             "ticketsQty": 4,
@@ -3655,7 +3641,7 @@
         },
         {
             "name": "Furia - Stand Up",
-            "genre": "Monologo",
+            "genre": "Monólogo",
             "length": "90 minutos",
             "image":
             "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/27/000242927.jpg",
@@ -3678,7 +3664,7 @@
         "genre": "Comedia",
         "length": "105 minutos",
         "image":
-        "https://www.multiteatro.com.ar/img/obras/270-foto.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/toc-toc_.jpg",
         "summary":
         "Seis personajes que padecen trastornos obsesivos compulsivos (TOC) se encontrarán y se conocerán en la sala de espera de un afamado psiquiatra con el fin de solucionar sus problemas. El psiquiatra nunca acudirá a la terapia y serán ellos los que tengan que llegar a sus propias conclusiones.",
         "ticketsQty": 3,
@@ -3715,7 +3701,7 @@
     },
     {
         "name": "La noche devora a sus hijos",
-        "genre": "Monologo",
+        "genre": "Monólogo",
         "length": "50 minutos",
         "image":
         "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/85/000224785.jpg",
@@ -3738,7 +3724,7 @@
         "genre": "Comedia",
         "length": "105 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/me-duele-una-mujer.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/me-duele-una-mujer.jpg",
         "summary":
         "Miguel Sánchez, un joven profesor de filosofía, es abandonado por su novia Paula y vive los primeros seis meses en ese abandono. Una psicoanalista recibe a Miguel en las diversas etapas de su tratamiento, marcando con su particular humor e ironía una paliza terapéutica. Miguel está siempre acompañado por Martín, su amigo inseparable, o acaso sean los dos la misma  persona. La obsesión por Paula provoca que vea en cada mujer al paso a su ex pareja y sólo al final sabremos si logra nuevamente transitar por esa esquina que hoy no se atreve a pasar.",
         "ticketsQty": 3,
@@ -3758,7 +3744,7 @@
         "genre": "Tragicomedia",
         "length": "100 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/petroleo-_.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/petroleo-_.jpg",
         "summary":
         "Yacimiento petrolero en la Patagonia. Cuatro hombres conviven en un trailer y a sólo unos metros de allí, extraen petróleo de un pozo casi vacío. Arriba, el tiempo libre se cubre de polvo, de mitos oscuros de la zona, de desafíos físicos. Abajo, la piedra se fractura para extraer la última gota, lo poco que queda.",
         "ticketsQty": 4,
@@ -3775,10 +3761,10 @@
     },
     {
         "name": "Inestable",
-        "genre": "Monologo",
+        "genre": "Monólogo",
         "length": "70 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/pablo-fabregas-presenta-inestable.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/inestable---pablo-fabregas.jpg",
         "summary":
         "La economía es inestable. Las parejas son inestables. La conexión es inestable. Las relaciones humanas son inestables. La paz es inestable. El equilibrio del mundo es inestable.",
         "ticketsQty": 4,
@@ -3798,7 +3784,7 @@
         "genre": "Tragicomedia",
         "length": "90 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/clara.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/clara.jpg",
         "summary":
         "2001: Sólo hay un neurocirujano en el país que puede salvar la vida de Clara. Este se niega y su familia decide vengarse escarchando la vida privada del doctor. El plan se complica, convirtiendo a los justicieros en delincuentes. Un thriller de placard devenido en comedia romántica. Nadie es lo que parece, todos somos abrumantes y desesperados.",
         "ticketsQty": 4,
@@ -3818,7 +3804,7 @@
         "genre": "Comedia",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/el-acompanamiento_.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/el-acompanamiento-_.jpg",
         "summary":
         "Tuco y Sebastián son dos amigos de toda la vida. Tuco trabaja en una metalúrgica y Sebastián tiene un kiosco de cigarrillos y golosinas. Después de una broma que le juega a Tuco un compañero de fábrica (el Mingo) este decide renunciar a su trabajo para dedicarse al canto. Para ello, se encierra en el altillo de su casa, armado con un cuchillo y aislado por completo de su familia, esperando al acompañamiento musical que el Mingo 'prometió' mandarle para ensayar y así triunfar en la televisión.",
         "ticketsQty": 5,
@@ -3838,7 +3824,7 @@
         "genre": "Comedia",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/el-amateur---segunda-vuelta.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/el-amateur.jpg",
         "summary":
         "'El amateur, segunda vuelta' es la obra emblemática de Mauricio Dayub. El Pájaro y Lopecito, sus protagonistas, logran encontrar un objetivo común y arriesgan todo lo que tienen para lograrlo. Juntos producen un milagro: que el sueño de uno se transforme en el sueño del otro. La amistad, la pasión y dar la vida sin esperar nada a cambio. Esa es la esencia de El amateur.",
         "ticketsQty": 4,
@@ -3858,7 +3844,7 @@
         "genre": "Tragedia",
         "length": "120 minutos",
         "image":
-        "https://vivo.perfil.com/storage/uploads/shows/poster/175ba592d28e713b6fc33883c44967a0.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/ensayo-sobre-el-miedo.jpg",
         "summary":
         "Distopía grotesca sobre el fin del mundo. el mundo fue destruido por una epidemia de miedos. En un precario refugio, un grupo de sobrevivientes resiste y se debate en cavilaciones sobre qué hacer.",
         "ticketsQty": 4,
@@ -3883,22 +3869,23 @@
         "summary":
         "Tarde noche de verano en el cementerio municipal del pueblo de Carhué, en el límite con Epecuén, provincia de Buenos Aires. Ante el acecho de una tormenta incipiente y cansadas de la rutina, dos mujeres encargadas del crematorio intentan terminar lo antes posible su jornada laboral. De repente el llamado de su jefe genera que aquellas heridas, ruinas y cenizas del pasado se remuevan y vuelvan a salir a luz.",
         "ticketsQty": 3,
-        "seatsAvailable": ["1-5", "1-7", "2-3"],
-        "ticketsSold": 0,
+        "seatsAvailable": [],
+        "ticketsSold": 3,
+        "total": 3360,
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-16",
         "time": "19:00",
-        "theaterId": 5,
-        "FavoriteId": 5,
+        "theaterId": 1,
+        "FavoriteId": 1,
         "originPrice": 1400,
         "released": true
     },
     {
         "name": "Artesanal",
-        "genre": "Monologo",
+        "genre": "Monólogo",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/144x70/artesanal---nicolas-de-tracy_.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/artesanal_.jpg",
         "summary":
         "En esta ocasión el actor y comediante que se hizo conocido en las redes sociales a partir de sus videos de humor simple, espontáneo y sorpresivo, nos presenta un show de material inédito donde toca temas como su adolescencia, la amistad, la familia, pensamientos sobre el amor y la sexualidad de una forma cruda e impredecible.",
         "ticketsQty": 4,
@@ -3917,7 +3904,7 @@
         "genre": "Comedia",
         "length": "70 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/inmaduros.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/inmaduros.jpg",
         "summary":
         "Inmaduros, además de divertida, nos interpela y nos hace pensar en las nuevas y variadas formas de relacionarnos. Sobre todo a dos personas tan diferentes como Alfi y Fideo, que siguen siendo absurdamente inmaduros. Claro que la suya es una inmadurez diferente, una inmadurez de dos hombres que han pasado los 50 y que por esas vueltas de la vida se verán sorprendidos por fuera de lo imaginable y descubrirán, al final de todo esto, la verdadera fuerza de la amistad.",
         "ticketsQty": 4,
@@ -3933,10 +3920,10 @@
     },
     {
         "name": "Fragil",
-        "genre": "Monologo",
+        "genre": "Monólogo",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/sebastian-wainraich---fragil.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/sebastian-wainraich---fragil.jpg",
         "summary":
         "Reconocido como uno de los comediantes más talentosos de Buenos Aires, en 'Frágil' Wainraich plantea un recorrido por su vida a través de los personajes que loatraviesan. El resultado es una obra desopilante y profunda a la vez, que combina humor, música, personajes y una gran puesta audiovisual.",
         "ticketsQty": 5,
@@ -3955,7 +3942,7 @@
         "genre": "Comedia",
         "length": "70 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/momi-giardina---cualquier-cosa-te-llamamos_.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/momi-giardina--cualquier-cosa-te-llamamos.jpg",
         "summary":
         "'Cualquier Cosa Te Llamamos' es un unipersonal que desdramatiza el fracaso, llevándolo al plano de la comedia y contando, a través de distintos personajes, todos los momentos en los que a un artista se le dificulta concretar sus sueños.",
         "ticketsQty": 3,
@@ -3993,7 +3980,7 @@
         "genre": "Tragicomedia",
         "length": "90 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/144x70/despues-del-deseo.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/despues-del-deseo.jpg",
         "summary":
         "Parejas en crisis. Parejas con fantasías, miedos, rutina. Parejas con los mismos problemas de todas. Personajes buscándose en el otro sin encontrarse nunca. ¿Que nos pasa cuando llega ese momento? ¿Qué pasa después de cruzar los límites? Hombres y mujeres comunes, gente más o menos sola. Parejas tan simples y extraordinariascomo cualquiera. Personas que se aman, que atraviesan la vida como pueden, quieren ocomo les sale.",
         "ticketsQty": 5,
@@ -4012,7 +3999,7 @@
         "genre": "Drama",
         "length": "100 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/tito.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/tito.jpg",
         "summary":
         "Tras una larga guerra, el general Tito Andrónico vuelve victorioso a Roma. Allí descubrirá que la ciudad en paz puede ser más violenta que los campos de batalla. Una venganza arrastrará a otra y amenazará con destruir la sociedad entera. Una versión alucinada de la obra más cruel y sangrienta de Shakespeare. Una tragedia que se convierte en comedia, una comedia que se convierte en pesadilla, una pesadilla que retumba en el presente..",
         "ticketsQty": 2,
@@ -4028,10 +4015,10 @@
     },
     {
         "name": "Piltrafa",
-        "genre": "Monologo",
+        "genre": "Monólogo",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/leo-lenuzza---piltrafa.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/leo-lenuzza---piltrafa.jpg",
         "summary":
         "'Piltrafa' es el unipersonal de humor Stand Up e imitaciones de Leo Lenuzza, más de una hora de comedia pura para que no pares de reírte hablando de todo: infancia, padres separados, películas, TV, la vida cotidiana y mucho más.",
         "ticketsQty": 4,
@@ -4050,7 +4037,7 @@
         "genre": "Comedia",
         "length": "70 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/450x220/perdida-mente.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/perdida-mente.jpg",
         "summary":
         "Una Jueza de la Nación siente que su mente no funciona muy bien últimamente, por eso decide juntar a las mujeres más importantes de su vida para solicitarles su ayuda.",
         "ticketsQty": 4,
@@ -4069,7 +4056,7 @@
         "genre": "Tragicomedia",
         "length": "75 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/pura-sangre---el-amor-es-un-monstruo.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/pura-sangre---el-amor-es-un-monstruo.jpg",
         "summary":
         "Griselda Siciliani vuelve al escenario con un espectáculo propio. La multifacética y premiada actriz despliega todo su talento en una comedia ácida, que reflexiona sobre el amor atravesado por un sistema de doma que nos somete a una carrera en busca de completarnos.",
         "ticketsQty": 3,
@@ -4164,7 +4151,7 @@
         "genre": "Comedia",
         "length": "70 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/el-equilibrista---mauricio-dayub.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/el-equilibrista-_.jpg",
         "summary":
         "Mi abuelo tocaba el acordeón junto a una caja que decía 'Frágil'. Una caja similar a la que mi padre usaba para guardar las obras de arte, que remataba. Mi abuela soñaba con cajas que no abría. Un día le conté que yo también soñaba con una. Me aconsejó que no la abriera. Cuando me animé, la abrí, y entendí a mi papá. Luego abrí otra, y comprendí a mis tíos. Hasta que en la última, me encontré a mí. Mi abuelo había atravesado el mar con su acordeón, oculto en esa caja que decía 'Frágil'. El mismo mar que tuve que atravesar yo, para saber de dónde venía. Ahora entiendo porqué.",
         "ticketsQty": 4,
@@ -4183,7 +4170,7 @@
         "genre": "Tragicomedia",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/esto-es-tan-solo-la-mitad-de-todo-aquello-que.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/esto-es-tan-solo-la-mitad-de-aquello-que-me-c.jpg",
         "summary":
         "Una casa. Dos cuartos separados. Un velorio. Dos familias. Un mismo padre. El fallecimiento de Piero Lascia genera un quiebre en sus seis hijos.",
         "ticketsQty": 4,
@@ -4221,7 +4208,7 @@
         "genre": "Drama",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/una-casa-llena-de-agua.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/una-casa-llena-de-agua.jpg",
         "summary":
         "En plena década del 90, una joven estudiante de Biología entra a trabajar como niñera en la casa de una familia acomodada. Entre peluches y frascos de compota Milena le irá contando a Angie, la bebé que cuida, su vida en tiempo real: sus miedos, sus romances, sus fantasías y el nudo en el que todas esas líneas se cruzan, la pregunta por un futuro incierto.",
         "ticketsQty": 5,
@@ -4237,10 +4224,10 @@
     },
     {
         "name": "Mellera lauriente",
-        "genre": "Monologo",
+        "genre": "Monólogo",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/mellera-lauriente_.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/mellera-lauriente_.jpg",
         "summary":
         "Luciano Mellera y Lucas Lauriente, dos de los comediantes más destacados y reconocidos de nuestro país, presentarán su show MELLERA LAURIENTE",
         "ticketsQty": 3,
@@ -4259,7 +4246,7 @@
         "genre": "Comedia",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/el-sillon.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/el-sillon.jpg",
         "summary":
         "",
         "ticketsQty": 3,
@@ -4281,14 +4268,15 @@
         "https://img.alternativateatral.com/scripts/es/fotos/obras/resumen/33/000235133.jpg",
         "summary":
         "En un viejo loteo fracasado Caín, Abel, y su versión conurbana del mito. Caín productor morronero. Abel vagabundo, vendedor de carnada viva en una banquina del asfalto que va al Tigris. Hermanos a los bifes compartiendo ese terreno, su edén berreta, partido al medio, al que nunca podrán volver morada común. La dialéctica imperecedera entre el sedentario y el nómade. Y Tatita, siempre ausente, que regresa al fin ese domingo melancólico.",
-        "ticketsQty": 4,
-        "seatsAvailable": ["1-6", "1-9", "2-3", "2-6"],
-        "ticketsSold": 0,
+        "ticketsQty": 2,
+        "seatsAvailable": [],
+        "ticketsSold": 2,
+        "total": 2250,
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-14",
         "time": "20:00",
-        "theaterId": 9,
-        "FavoriteId": 9,
+        "theaterId": 2,
+        "FavoriteId": 2,
         "originPrice": 1500,
         "released": true
     },
@@ -4301,13 +4289,14 @@
         "summary":
         "Susana se acaba de quedar sin trabajo, va a cuanta entrevista de trabajo consigue. Hasta que llega a una agencia de colocación de empleo en donde conoce a un funcionario de la misma llamado Alberto. Cuando entra a la entrevista, Alberto la recibirá con recelo y prejuicio, Susana tendrá que hacer valer sus ideas para hacerle ver que ella lucha cada día por ser mejor persona y que su aspecto no determina de forma negativa lo que es por dentro. Alberto le tocará aprender una lección a través del testimonio de Susana, y al conocer la verdad de ella, él mismo se confrontará con la suya, dejando salir sus demonios para así reconciliarse con él mismo.",
         "ticketsQty": 3,
-        "seatsAvailable": ["2-5", "2-7", "3-6"],
+        "seatsAvailable": [],
         "ticketsSold": 0,
         "rated": "Todas las edades",
         "date": "2022-02-15",
         "time": "22:00",
-        "theaterId": 9,
-        "FavoriteId": 9,
+        "total": 2700,
+        "theaterId": 3,
+        "FavoriteId": 3,
         "originPrice": 1200,
         "released": true
     },
@@ -4335,7 +4324,7 @@
         "genre": "Comedia",
         "length": "40 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/escuela-de-superheroes.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/escuela-de-superheroes.jpg",
         "summary":
         "Los mejores superhéroes son reunidos para ser entrenados y aprender el gran poder y responsabilidad que lleva ser un héroe. Todo marcha bien hasta que en la Escuela se infiltra un malvado, con el objetivo de robarle los superpoderes a todos y así poder tener el control y dominar el mundo. Pero las acciones buenas junto a la amistad siempre ganan y con la ayuda de los chicos podrán detenerlo en la 'Escuela de Superhéroes'",
         "ticketsQty": 5,
@@ -4354,7 +4343,7 @@
         "genre": "Drama",
         "length": "85 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/450x220/claveles-rojos.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/claveles-rojos.jpg",
         "summary":
         "Una familia tradicional, movida por oscuros intereses económicos, inicia juicio contra una de sus integrantes para declararla incapaz. La joven, pese a sus limitaciones, es defendida por un abogado combativo que pone en cuestión el concepto de normalidad y el criterio esencial de la saludable vida humana.",
         "ticketsQty": 4,
@@ -4370,10 +4359,10 @@
     },
     {
         "name": "Cheto y choto",
-        "genre": "Monologo",
+        "genre": "Monólogo",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/ezequiel-campa--cheto-y-choto_.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/cheto-y-choto.jpg",
         "summary":
         "Ezequiel Campa, uno de los principales referentes del Stand Up en Argentina, sigue presentando CHETO y CHOTO, su cuarto espectáculo unipersonal de stand up, con material totalmente nuevo.",
         "ticketsQty": 3,
@@ -4392,7 +4381,7 @@
         "genre": "Comedia",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/un-balcon-con-vistas.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/un-balcon-con-vistas.jpg",
         "summary":
         "",
         "ticketsQty": 3,
@@ -4411,7 +4400,7 @@
         "genre": "Tragicomedia",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/solo-llame-para-decirte-que-te-amo.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/solo-llame-para-decirte-que-te-amo.jpg",
         "summary":
         "Patricia vive con sus hijos mellizos, su madre, su hermana y la novia de uno de los hijos. Ella lleva la casa adelante. Hoy recibirá un llamado que cambiará su vida para siempre.",
         "ticketsQty": 3,
@@ -4430,7 +4419,7 @@
         "genre": "Tragedia",
         "length": "90 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/la-desgracia.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/la-desgracia.jpg",
         "summary":
         "En un pequeño y conservador pueblo llamado Terranova se despierta una enfermedad mortal de transmisión sexual a la que llaman la desgracia. El escándalo se evidencia cuando Anita, la joven hija de la intendente, es internada en la sala medica por encontrarse infectada. Como si esto no fuera suficiente desgracia, el único doctor del pueblo es encontrado muerto en su consultorio a minutos de haber hallado la cura.",
         "ticketsQty": 5,
@@ -4449,7 +4438,7 @@
         "genre": "Musical",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/450x220/mujeres-en-el-bano.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/mujeres-en-el-bano.jpg",
         "summary":
         "Partiendo de la famosa pregunta ¿Qué hacen tanto tiempo las mujeres en el baño? La obra despliega un universo en el cual cinco mujeres exponen sus fantasías, se transforman en estrellas de rock, recitan reggaeton, cantan, se tocan, se divierten, se cuestionan y bailan en un espacio en constante mutación.",
         "ticketsQty": 3,
@@ -4468,7 +4457,7 @@
         "genre": "Tragicomedia",
         "length": "70 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/carmela.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/carmela.jpg",
         "summary":
         "'Carmela', es una comedia de texto, cuenta la vida de una mujer de 84 años que, en sus años de juventud, fue actriz. En el Hogar de ancianos en donde vive, conoce a Julián, un joven enfermero, tímido e inseguro. El encuentro de estas dos soledades, cambia la realidad de ambos.",
         "ticketsQty": 4,
@@ -4484,10 +4473,10 @@
     },
     {
         "name": "No soy yo sos vos",
-        "genre": "Monologo",
+        "genre": "Monólogo",
         "length": "50 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/450x220/no-soy-yo-sos-vos.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/no-soy-yo-sos-vos.jpg",
         "summary":
         "'NO SOY YO SOS VOS'  Es un show de humor Stand Up donde los comediantes van a hacer hasta lo imposible para que pases una hora a pura risa. Dos comediantes con estilos diferentes que se complementan muy bien hacen de este show la mejor opción para divertirte y disfrutar!!!",
         "ticketsQty": 2,
@@ -4506,7 +4495,7 @@
         "genre": "Drama",
         "length": "75 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/144x70/la-fiebre.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/la-fiebre.jpg",
         "summary":
         "Fiebre es una tortuga chiquita. Azucena es una mujer que se rehabilita en la casa de un tío hosco con la única compañía de Fiebre, con la cual conversa. Azucena es la que se intoxica en un campo y transgrede los límites de la extravagancia y la gracia, poniéndose agresiva y paranoica con sus amigos.",
         "ticketsQty": 3,
@@ -4525,7 +4514,7 @@
         "genre": "Comedia",
         "length": "70 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/los-perros_.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/los-perros_.jpg",
         "summary":
         "El día de su cuarenta cumpleaños, Laura tiene una experiencia fugaz pero demoledora: durante su trayecto habitual en metro, un desconocido le sonríe y le susurra algo al oído. Ya en casa, durante la fiesta, esa semilla germinará y acabará bombardeando la 'supuestamente' asentada vida familiar, a pesar de los esfuerzos de Laura por mantener la unión con y entre sus seres queridos.",
         "ticketsQty": 4,
@@ -4541,10 +4530,10 @@
     },
     {
         "name": "Luly, el toxio de mi vida",
-        "genre": "Monologo",
+        "genre": "Monólogo",
         "length": "90 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/luly_-el-toxico-de-mi-vida.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/luly---el-toxico-de-mi-vida-_.jpg",
         "summary":
         "Un nuevo show de Stand up Comedy de Pablo Angeli y Luly, donde el tema de la convivencia, la relación, las idas y vueltas con el Tóxico son el eje de esta vuelta al Teatro del comediante.",
         "ticketsQty": 4,
@@ -4563,7 +4552,7 @@
         "genre": "Musical",
         "length": "90 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/aislados---el-musical.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/aislados---el-musical.jpg",
         "summary":
         "Un grupo de adolescentes con conflictos entre amores y amistades se ven atrapados en los planes de unos misteriosos visitantes en la ciudad. Deberán emprender labúsqueda de sus familiares y amigos desaparecidos. Lo que no saben es que son parte de un experimento macabro en el que los villanos quieren borrarles sus sueños y esperanzas para sucumbirlos en la oscuridad.",
         "ticketsQty": 2,
@@ -4582,7 +4571,7 @@
         "genre": "Tragedia",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/un-judio-comun-y-corriente.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/un-judio-comun-y-corriente.jpg",
         "summary":
         "El actor Gerardo Romano es Un judío común y corriente, obra escrita por Charles Lewinsky en versión en español de Lázaro Droznes, en la que se refleja el conflicto que debe resolver un judío alemán que vive en Alemania cuando recibe la invitación de un profesor de Ciencias Sociales de una escuela secundaria, cuyos alumnos, luego de estudiar el nazismo quieren conocer a un judío.",
         "ticketsQty": 3,
@@ -4601,7 +4590,7 @@
         "genre": "Danza",
         "length": "70 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/jazz-cartoons-por-paris-jazz-club.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/jazz-cartoons---por-paris-jazz-club.jpg",
         "summary":
         "Un viaje hacia un mundo ideal con un repertorio exquisito. Un divertido espectáculo que nos conecta con ese niño que alguna vez fuimos.",
         "ticketsQty": 4,
@@ -4620,7 +4609,7 @@
         "genre": "Drama",
         "length": "90 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/el-principio-de-la-diversidad.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/el-principio-de-la-diversidad.jpg",
         "summary":
         "En 1948 se publicó el libro que modificó la forma de entender la sexualidad hasta nuestros días. El autor fue Alfred Kinsey, un prestigioso entomólogo que decidió, a partir de un problema con la sexualidad de su mujer, investigar lo inexplorado hasta ese momento: El sexo. En su investigación ignoró todas las alarmas éticas y morales para conseguir su objetivo. Destrozó familias, vidas y todo lo que rodeó su trabajo.",
         "ticketsQty": 5,
@@ -4639,7 +4628,7 @@
         "genre": "Tragicomedia",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/el-reproche.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/el-reproche.jpg",
         "summary":
         "Julia es escritora, Javier es periodista. Dos exitosos, tanto en lo profesional como en lo personal. Se conocieron y se enamoraron ya con la vida resuelta, y pudieron construir una pareja perfecta, madura y feliz. Una noche, mientras esperan a su amiga para cenar, reciben un regalo con una tarjeta portadora de un mensaje peligroso: las palabras allí escritas vuelven a poner sobre la mesa un tema estratégicamente sepultado para cimentar la paz del hogar. Torpemente, los enamorados se enredan en una batalla que ya se pronostica con daños irreparables. Mentiras, secretos y antiguos reproches que son siempre el mismo",
         "ticketsQty": 3,
@@ -4658,7 +4647,7 @@
         "genre": "Danza",
         "length": "100 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/144x70/dracula.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/dracula.jpg",
         "summary":
         "Drácula, el musical es uno de los musicales argentinos más importantes. Fue escrito y dirigido por la dupla conformada por Pepe Cibrián y Ángel Mahler y producido por Tito Lectoure.",
         "ticketsQty": 5,
@@ -4677,7 +4666,7 @@
         "genre": "Musical",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/450x220/christiane.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/christiane.jpg",
         "summary":
         "Christiane es un homenaje en vida a Christiane Dosne Pasqualini, reconocida investigadora científica, que llegó a los 22 años a Buenos Aires para trabajar junto al Premio Nobel, Bernardo Houssay. Nacida en Francia, criada en Canadá y Argentina por adopción, CDP se dedicó con ferviente pasión a buscar la causa del cáncer en sus ratones de laboratorio. Fue a su vez, la primera de su género en ocupar un asiento en la Academia Nacional de Medicina.",
         "ticketsQty": 3,
@@ -4697,7 +4686,7 @@
         "genre": "Tragedia",
         "length": "90 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/450x220/los-amigos-de-ellos-dos.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/los-amigos-de-ellos-dos.jpg",
         "summary":
         "Dos parejas amigas se encuentran a cenar todos los jueves desde hace más de doce años. Nicolás y Liza ya llegaron al restaurante pero sus amigos no. Los minutos pasan y la misteriosa e inusual demora de los amigos comienza a preocupar.",
         "ticketsQty": 4,
@@ -4716,7 +4705,7 @@
         "genre": "Comedia",
         "length": "75 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/carne-de-critica---20-anos-es-mucho.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/carne-de-critica---20-anos-es-mucho.jpg",
         "summary":
         "Los personajes retratan las limitaciones,contradicciones y complejos a los que pueden someternos la mirada de losdemás y la propia, sin perder el tono del humor.",
         "ticketsQty": 3,
@@ -4735,7 +4724,7 @@
         "genre": "Tragicomedia",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/450x220/30-dias-por-siempre-amigos.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/30-dias-por-siempre-amigos.jpg",
         "summary":
         "30 Días es la relación entrañable de dos íntimos amigos: Juana y Manu. 30 Días comienza la acción cuando Juana decide suicidarse mientras que Manu se entera que ha de morirse. A partir de allí transcurren los mágicos 30 días. 30 Días es una comedia profunda en donde la risa y la emoción son los ejes fundamentales de la historia. 30 Días es un canto a la vida y no a la muerte. 30 Días es un canto a la ilusión y no al fracaso.",
         "ticketsQty": 3,
@@ -4751,10 +4740,10 @@
     },
     {
         "name": "Casi adulto",
-        "genre": "Monologo",
+        "genre": "Monólogo",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/juli-bellese---casi-adulto_.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/juli-bellese---casi-adulto.jpg",
         "summary":
         "Juli Bellese vuelve al teatro estrenando su primer unipersonal 'Casi Adulto'. Cargado de anécdotas familiares, reflexiones sobre dar los primeros pasos en el mundo adulto y con la gracia a la que nos tiene acostumbrados.",
         "ticketsQty": 4,
@@ -4773,7 +4762,7 @@
         "genre": "Drama",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/el-loco-y-la-camisa.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/el-loco-y-la-camisa.jpg",
         "summary":
         "La dramaturgia de esta obra aborda varios ejes temáticos que van entrelazándose: la locura, la convivencia familiar, la revelación de la verdad y la violencia doméstica.",
         "ticketsQty": 5,
@@ -4792,7 +4781,7 @@
         "genre": "Comedia",
         "length": "50 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/la-comedia-es-peligrosa.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/la-comedia-es-peligrosa.jpg",
         "summary":
         "Mezcla de historia y de fantasía, La comedia es peligrosa cuenta una trama de suspenso y vodevil que ocurre en la capital del Virreinato del Río de la Plata en 1783. Unos cómicos de la legua pretenden construir un teatro estable y para ello deben enfrentarse al poder de los cabildantes y del obispo. El jamón del sándwich es el virrey. ¿Quién se comerá a quién?",
         "ticketsQty": 3,
@@ -4830,7 +4819,7 @@
         "genre": "Musical",
         "length": "75 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/el-cusifai.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/el-cusifai.jpg",
         "summary":
         "El Cusifai será una experiencia inigualable! El espectador será agasajado como un invitado del mejor Cabaret de los años 50 en la maravillosa ciudad de la Luz. Se sentirá parte de un mundo distinto y estará en contacto con los artistas. Este espectáculo nos propone un viaje en el tiempo, donde la magia del cabaret y la noche serán protagonistas.",
         "ticketsQty": 4,
@@ -4849,7 +4838,7 @@
         "genre": "Tragicomedia",
         "length": "70 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/el-fruto.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/el-fruto.jpg",
         "summary":
         "Cuatro mujeres entrelazadas por el dolor, rebeldía, amores frustrados, encontrando en la rutina un consuelo abrazador que atenúa las heridas del pasado... El sufrimiento es la sombra que al perseguirlas no dejan espacio para vislumbrar el futuro tan deseado: La claridad de sus destinos... Ninguna mujer puede escapar al dolor que se niega sentir",
         "ticketsQty": 3,
@@ -4865,10 +4854,10 @@
     },
     {
         "name": "La violencia de la ternura",
-        "genre": "Monologo",
+        "genre": "Monólogo",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/tomas-quintin-palma.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/tomas-quintin-palma.jpg",
         "summary":
         "Tomás Quintín Palma nació en una familia de payasos. Piripincho Rigattuzzo es un célebre payaso rosarino y durante toda su infancia fue una estrella absoluta en la ciudad. Junto a él actuaba su vieja, su viejo, y varios familiares más.",
         "ticketsQty": 4,
@@ -4887,7 +4876,7 @@
         "genre": "Tragedia",
         "length": "65 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/radojka.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/radojka.jpg",
         "summary":
         "Lucía llega a casa de Radojka y encuentra a Gloria con una terrible noticia: Radojka murió, es por eso que ambas deciden mantenerla 'aparentemente viva' en el freezer para seguir cobrando su sueldo hasta que el plan se les empieza a ir de las manos cuando el hijo de Radojka viaja a visitarla.",
         "ticketsQty": 3,
@@ -4906,7 +4895,7 @@
         "genre": "Comedia",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/nunca-es-tarde-.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/nunca-es-tarde--.jpg",
         "summary":
         "",
         "ticketsQty": 4,
@@ -4925,7 +4914,7 @@
         "genre": "Drama",
         "length": "70 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/el-cuarto-de-veronica.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/la-habitacion-de-veronica.jpg",
         "summary":
         "Susan, de 20 años, es abordada mientras cena con su novio en un restaurante por una encantadora pareja de ancianos que se muestra impresionada por el parecido de Susan con Verónica, fallecida hace mucho tiempo. Susan y su novio acompañan a la pareja hasta la mansión para ver el retrato de Verónica y comprobar el parecido. Allí comienza esta intrigante pesadilla con un final inesperado.",
         "ticketsQty": 4,
@@ -4944,7 +4933,7 @@
         "genre": "Musical",
         "length": "50 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/450x220/crianzas.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/crianzas.jpg",
         "summary":
         "Un musical basado en el libro de Susy Shock con dirección musical de Carlos Gianni. Es un manifiesto de experiencias amorosas criando en la diversidad. Una propuesta infantil / familiar con un lenguaje poético, cotidiano y cercano a las infancias.",
         "ticketsQty": 4,
@@ -4963,7 +4952,7 @@
         "genre": "Tragicomedia",
         "length": "75 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/climax.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/climax.jpg",
         "summary":
         "El clímax es la parte más importante de una historia. Normalmente se presenta en el desarrollo, y a veces en el final. En esta en particular encontramos varios y diferentes, generando una ciclogénesis explosiva por la mezcla de géneros y vicisitudes que plantea su Director, Casper Esposito, con sus atractivos protagonistas. (Mariana Genesio Peña, Facundo Gambandé, Alejo Ortiz y Dedé Romano)",
         "ticketsQty": 4,
@@ -4982,7 +4971,7 @@
         "genre": "Danza",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/450x220/la-reina-de-las-nieves-y-los-4-elementos_.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/la-reina-de-las-nieves-y-los-4-elementos-2.JPG",
         "summary":
         "La Reina de la Nieve y su hermana se embarcan en un viaje en lo profundo de un bosque donde habitan los guardianes de los cuatro elementos. Su objetivo principal es desencantar el embrujo que le dejó un hechicero a una de ellas, volviéndola fría con la otra. La Reina de la Nieve debe recordar el pasado antes de que su corazón se congele por completo.",
         "ticketsQty": 4,
@@ -5001,7 +4990,7 @@
         "genre": "Danza",
         "length": "55 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/la-reina-de-las-nieves-y-los-4-elementos-2-_.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/la-reina-de-las-nieves-y-los-4-elementos-2_.JPG",
         "summary":
         "La Reina de las Nieves se aventura en una tierra desconocida y misteriosa, donde sus poderes se pondrán a prueba hasta límites insospechados. A lo largo del viaje, descubrirá la vida que estaba destinada a vivir, pero al hacerlo, corre el riesgo de perderlo todo y de perderse ella misma.",
         "ticketsQty": 5,
@@ -5020,7 +5009,7 @@
         "genre": "Ópera",
         "length": "170 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/met-opera-hd---ariadne-auf-naxos.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/met-opera-hd---ariadne-auf-naxos.jpg",
         "summary":
         "Encantadora obra maestra de Strauss sobre la heroína mitológica griega y Baco, quién se encuentra bajo el encantamiento de una hechicera.",
         "ticketsQty": 5,
@@ -5039,7 +5028,7 @@
         "genre": "Drama",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/tres-hombres-de-bien.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/tres-hombres-de-bien.jpg",
         "summary":
         "Una historia de suspenso, que involucra al público haciéndolo sentir parte de cada decisión de estos tres hombres 'de bien' enfrentados a una encrucijada moral, que los arrastra a los lugares más oscuros de sus propias ambiciones.",
         "ticketsQty": 4,
@@ -5058,7 +5047,7 @@
         "genre": "Tragedia",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/ciclo-escenas-alternativas---el-viento-en-un.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/ciclo-escenas-alternativas---el-viento-en-un-violin.jpg",
         "summary":
         "El viento en un violín es una historia de amor, de amores desgarrados, de amores incomprendidos, de encuentros y desencuentros, de clases sociales diferentes, de maltratos, de injusticias, de violencia, de sueños imposibles que para hacerlos posibles hay que cruzar aquel límite impensable.",
         "ticketsQty": 4,
@@ -5074,10 +5063,10 @@
     },
     {
         "name": "Pequeñas cosas fundamentales",
-        "genre": "Monologo",
+        "genre": "Monólogo",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/450x220/pablo-molinari--pequenas-cosas-fundamentales.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/pequenas-cosas-fundamentales.jpg",
         "summary":
         "",
         "ticketsQty": 5,
@@ -5096,7 +5085,7 @@
         "genre": "Comedia",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/144x70/la-pipa-de-la-paz_.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/la-pipa-de-la-paz.jpg",
         "summary":
         "Una madre 'especial' obliga a su hijo a volver de Nueva York para resolver un insólito problema familiar. El intentará, con suma diplomacia y paciencia, solucionar el conflicto pero el carácter insoportable de la mamá lo sacará de quicio hasta llevarlo a la desesperación.",
         "ticketsQty": 5,
@@ -5115,7 +5104,7 @@
         "genre": "Musical",
         "length": "45 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/canticuenticos.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/canticuenticos.jpg",
         "summary":
         "Canticuenticos es -sin dudas- una de las mejores propuestas musicales para acompañar las infancias de estos tiempos: con canciones propias sobre ritmos argentinos y latinoamericanos, las letras tocan todos los tópicos, desde los más divertidos y disparatados hasta los más difíciles y delicados.",
         "ticketsQty": 4,
@@ -5134,7 +5123,7 @@
         "genre": "Tragicomedia",
         "length": "75 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/mi-hijo-solo-camina-un-poco-mas-lento.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/mi-hijo-solo-camina-un--poco-mas-lento.jpg",
         "summary":
         "Es el día del cumpleaños de Branko. A instancias de este festejo se desencadenan una serie de acontecimientos que revelan un singular funcionamiento familiar. Lo desopilante, lo hostil, lo tierno irá entretejiendo una trama entrañable...",
         "ticketsQty": 3,
@@ -5153,7 +5142,7 @@
         "genre": "Drama",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/scalabrini-ortiz.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/scalabrini-ortiz-_.jpg",
         "summary":
         "La pieza teatral recorre la geografía de los misterios del hombre, por debajo de las certezas. Es un recorrido por nuestra historia, pero también, y sobre todo, una invitación a 'sabernos uno cualquiera, pero que sabe que es uno cualquiera', y ponernos en una perspectiva en el universo, para asumir lo que a veces ignoramos como humanos.",
         "ticketsQty": 3,
@@ -5172,7 +5161,7 @@
         "genre": "Tragedia",
         "length": "75 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/eternos-transeuntes.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/eternos-transeuntes.jpg",
         "summary":
         "Esta obra cuenta la historia de seres encerrados en un mundo sin salida, colmados de odio, reproches y violencia. Cuatro hermanos marcados por la cruel y despiadada crianza de un padre golpeador. Sus vidas, llenas de rencores, los llevaron a cada uno de ellos a seguir el mismo camino.",
         "ticketsQty": 5,
@@ -5188,10 +5177,10 @@
     },
     {
         "name": "Algo satanico",
-        "genre": "Monologo",
+        "genre": "Monólogo",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/noelia-custodio---algo-satanico.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/noelia-custodio---algo-satanico.jpg",
         "summary":
         "Noelia Custodio presenta Algo Satánico",
         "ticketsQty": 3,
@@ -5210,7 +5199,7 @@
         "genre": "Comedia",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/somos-nosotros.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/somos-nosotros.jpg",
         "summary":
         "Un tercero irrumpe en la vida de una pareja feliz y el mundo que habían construido se sacude. Hasta acá, una obra más. Pero lo que ya conocés, se queda solo en esa frase. SOMOS NOSOTROS es una comedia explosiva que llega para poner en escena esas preguntas que están dando vueltas en tu cabeza y que son las protagonistas de las charlas con tus amigos.",
         "ticketsQty": 3,
@@ -5229,7 +5218,7 @@
         "genre": "Musical",
         "length": "75 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/mi-amigo-invencible.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/mi-amigo-invencible_.jpg",
         "summary":
         "Mi Amigo Invencible vuelve al escenario del ND/Teatro tras haber debutado allí sin público con su único audiovisual realizado en tiempos de aislamiento.",
         "ticketsQty": 3,
@@ -5248,7 +5237,7 @@
         "genre": "Tragicomedia",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/como-si-pasara-un-tren.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/como-si-pasara-un-tren.jpg",
         "summary":
         "Una comedia dramática sobre la vulnerable relación de una madre y su hijo en una ciudad de campo. La llegada de una prima de la capital cambiará todo para siempre.",
         "ticketsQty": 3,
@@ -5267,7 +5256,7 @@
         "genre": "Drama",
         "length": "70 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/barrio-la-mosca.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/barrio-la-mosca.jpg",
         "summary":
         "Años 70, en el barrio de Avellaneda. Amanda y sus hijas, Eli y Ale, se ven forzadas a compartir cada movimiento vital con Zita (cuñada de Amanda) y con todos los parientes de Miguel (esposo de Amanda y padre de las chicas), viviendo en una casa donde la humedad y el desborde de cloacas hacen estragos, tanto en la casa como en las personas que la habitan. Hasta que un día, ese día, la última gota de invasión desata un desastre familiar. ¿Podrá sobrellevarlo la madre?, ¿lo podrá hacer el padre? Qué queda para las hijas?.",
         "ticketsQty": 4,
@@ -5286,7 +5275,7 @@
         "genre": "Tragicomedia",
         "length": "70 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/partido-homenaje.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/partido-homenaje.jpg",
         "summary":
         "El Tata Castiñeiras es leyenda del Juventud Unida, y ya retirado, se lo llama para rendirle su merecido homenaje. Cuando uno sale a la cancha tiene que estar preparado, porque lo espera el paraíso... o el infierno, decía su amigo el Rulo. La obra lo encuentra al Tata en el vestuario del club, tras haber salido lesionado en su propio homenaje, atravesado por el fútbol, su vida amorosa y la realidad política del país.",
         "ticketsQty": 2,
@@ -5305,7 +5294,7 @@
         "genre": "Tragedia",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/pasado-presente-pasion---pasolini.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/pasado-presente-pasion---pasolini.jpg",
         "summary":
         "Pier Paolo Pasolini es, sin lugar a dudas, uno de los mayores exponentes intelectuales de la Italia de la pos guerra. Admirado, elogiado, premiado, detestado, perseguido y hasta censurado pero jamás ignorado. En este sentido, Pasado, Presente, Pasión, recorre con rigor histórico y licencia de ficción, toda su biografía. Acercarnos a los primeros años de su vida y poner en contexto su existencia, llena de sentido su corta pero vastísima producción. ",
         "ticketsQty": 3,
@@ -5324,7 +5313,7 @@
         "genre": "Musical",
         "length": "90 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/lo-que-se-nos-canta-y-baila_.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/lo-que-se-nos-canta-y-baila.JPG",
         "summary":
         "'LO QUE SE NOS CANTA Y BAILA' es un show en donde se entremezclan las mejores canciones del cine, del teatro musical y populares de todos los tiempos, con un gran trabajo vocal e interpretativo complementado con impactantes coreografías y ensamblado con maravillosos músicos en vivo!",
         "ticketsQty": 4,
@@ -5343,7 +5332,7 @@
         "genre": "Tragicomedia",
         "length": "60 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/pieza-inconclusa-para-sofa-y-dos-cuerpos.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/pieza-inconclusa-para-sofa-y-dos-cuerpos.jpg",
         "summary":
         "Bajo tres miradas: una heterosexual, otra gay y otra lésbica, la puesta en escena Pieza inconclusa para sofá y dos cuerpos aborda la universalidad del amor, con el mismo formato, mismas escenas y líneas, la obra retrata la relación de una pareja desde el primer 'flechazo' hasta el enamoramiento, la decisión de vivir bajo el mismo techo y todo lo que se deriva a raíz de no haber conocido lo suficiente a la persona amada, y qué tan complejas pueden ser las relaciones amorosas en un mundo en el que, a pesar de la tecnología, se está más incomunicado.",
         "ticketsQty": 5,
@@ -5362,7 +5351,7 @@
         "genre": "Comedia",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/bajo-terapia.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/bajo-terapia.jpg",
         "summary":
         "",
         "ticketsQty": 4,
@@ -5378,10 +5367,10 @@
     },
     {
         "name": "Las chicas de la culpa",
-        "genre": "Monologo",
+        "genre": "Monólogo",
         "length": "80 minutos",
         "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/220x220/las-chicas-de-la-culpa-_.jpg",
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/las-chicas-de-la-culpa.jpg",
         "summary":
         "Todas las funciones son distintas y delirantes! No es una obra de teatro, no es stand up, es Las Chicas de la Culpa, una juntada con tus amigas más zarpadas!",
         "ticketsQty": 4,
@@ -5400,7 +5389,7 @@
             "genre": "Drama",
             "length": "80 minutos",
             "image":
-            "https://imgplateanet.com.ar/imagenes/img/imagenes/450x220/claveles-rojos.jpg",
+            "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/eva-y-victoria-_.jpg",
             "summary":
             "Eva y Victoria es una imaginaria reunión entre Eva Perón y Victoria Ocampo, Eva acude a ver a Victoria con la excusa de obtener apoyo para tratar en el Congreso de la Nación el proyecto de ley que permita votar a las mujeres. Pero realmente es el encuentro de dos clases sociales, de dos formas de pensar la vida y el país a todas luces antagónicas, mostrando las ideas irreconciliables que durante décadas nos dividió como nación y llevado por una esgrima verbal digna de aquellas dos formidables adversarias.",
             "ticketsQty": 3,
@@ -5416,10 +5405,10 @@
         },
         {
             "name": "Connie Ballarini",
-            "genre": "Monologo",
+            "genre": "Monólogo",
             "length": "70 minutos",
             "image":
-            "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/connie-ballarini-_.jpg",
+            "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/connie-ballarini-stand-up_.jpg",
             "summary":
             "Su anterior unipersonal #SACADA fue presentado durante los años 2016 y 2017. En televisión, grabó tres especiales para Comedy Central (también emitidos por TELEFE), participó en 'La culpa es de Colón, Edición Mujeres' y en 'Drunk History', todos emitidos por el mismo canal.",
             "ticketsQty": 4,
@@ -5438,7 +5427,7 @@
             "genre": "Comedia",
             "length": "70 minutos",
             "image":
-            "https://imgplateanet.com.ar/imagenes/img/imagenes/1440x500/tu-falta-de-querer.jpg",
+            "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/tu-falta-de-querer.jpg",
             "summary":
             "Este espectáculo cuenta, a la manera de un culebrón clásico latinoamericano, un capítulo de la exitosa telenovela Tu Falta de Querer, donde no faltan todos los ingredientes típicos del género: los amores contrariados, los hijos perdidos, las amnesias colectivas. En el escenario los intérpretes cuentan esta historia donde aparecen, cantadas en vivo, las canciones más reconocidas del repertorio latino.",
             "ticketsQty": 4,

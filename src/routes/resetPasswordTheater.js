@@ -6,14 +6,14 @@ const router = Router();
 router.post("/", async (req, res, next) => {
   const { email } = req.body;
   const transporter = nodemailer.createTransport({
-    host: "smtp.ethereal.email",
-    port: 587,
+    service: "Gmail",
+    // host: "smtp.ethereal.email",
+    // port: 587,
     auth: {
-      user: "elena.wuckert95@ethereal.email",
-      pass: "R2MdTagJTnnFFazbGQ",
+      user: "asalallenaapp@gmail.com",
+      pass: "asalallena123",
     },
   });
-
   let theaterToReset = await Theaters.findOne({
     where: {
       email: email,
@@ -21,7 +21,7 @@ router.post("/", async (req, res, next) => {
   });
 
   let mailOption = {
-    from: "A Sala Llena",
+    from: "asalallenaapp@gmail.com",
     to: `${theaterToReset.email}`,
     subject: "Recupera tu contraseña",
     html: `<h3>Hola ${theaterToReset.name}</h3> en el siguiente link podras recuperar tu contraseña </br>

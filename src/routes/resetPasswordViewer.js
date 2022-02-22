@@ -6,17 +6,14 @@ const router = Router();
 router.post("/", async (req, res, next) => {
   const { email } = req.body;
   const transporter = nodemailer.createTransport({
-    host: "smtp.ethereal.email",
-    port: 587,
+    service: "Gmail",
+    // host: "smtp.ethereal.email",
+    // port: 587,
     auth: {
-      user: "elena.wuckert95@ethereal.email",
-      pass: "R2MdTagJTnnFFazbGQ",
+      user: "asalallenaapp@gmail.com",
+      pass: "asalallena123",
     },
   });
-
-  // Front => en Login(Viewer/Theater) => "Olvide mi contraseña" => Componente "ingrese su Email" dispatch action -
-  // que envie un mail{Viewer.name, link que va a resetPassword/:id}  => componente reset password - dos inputs "password" "confirmPass"
-  //action = put.Viewer => redirige a login(viewer/theater)
   let viewerToReset = await Viewers.findOne({
     where: {
       email: email,
@@ -24,7 +21,7 @@ router.post("/", async (req, res, next) => {
   });
 
   let mailOption = {
-    from: "A Sala Llena",
+    from: "asalallenaapp@gmail.com",
     to: `${viewerToReset.email}`,
     subject: "Recupera tu contraseña",
     html: `<h3>Hola ${viewerToReset.name}</h3> en el siguiente link podras recuperar tu contraseña </br>

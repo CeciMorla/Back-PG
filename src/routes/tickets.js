@@ -10,8 +10,8 @@ const router = Router();
   const mercadopago = require("mercadopago");
   // Agrega credenciales
   mercadopago.configure({
-    //access_token:"TEST-4897216680136890-020912-428eee3e2c74fb3f30d970976a0166ce-392112530" 
-    access_token:"APP_USR-6623451607855904-111502-1f258ab308efb0fb26345a2912a3cfa5-672708410", //poner token
+    access_token:"TEST-4897216680136890-020912-428eee3e2c74fb3f30d970976a0166ce-392112530" 
+    //access_token:"APP_USR-6623451607855904-111502-1f258ab308efb0fb26345a2912a3cfa5-672708410", //poner token
   });
 
 router.get("/", async (req, res, next) => {
@@ -89,18 +89,21 @@ try {
   
 });
 
-router.get("/finish/:showId/:idViewer/:seatNumber/:status", async function (req, res) {
+router.get("/finish/:decodIdN/:decodIdVn/:seatNumber/:status", async function (req, res) {
 
   
   
-  const { showId, seatNumber, status } = req.params
-  console.log('showId',showId)
+  const { decodIdN, seatNumber, status, decodIdVn } = req.params
+  //console.log(atob(showId));
+  //const idShow = Buffer.from(showId,'base64')
+  //const decodIdShow = idShow.toString('ascii');
+  //console.log('decodIdShow',decodIdShow)
   const array = seatNumber.split(",")
-  console.log(req.params)
+  console.log('esto trae por params al redirigirte', req.params)
   if(status === "approved"){
     const show = await Shows.findOne({ //busco el show
       where: {
-        id : showId
+        id : decodIdN
       },
       include: {
         model: Tickets,
@@ -109,7 +112,7 @@ router.get("/finish/:showId/:idViewer/:seatNumber/:status", async function (req,
     console.log("este es el total inicial ", show.dataValues.total)
     const tickets = await Tickets.findAll({ //busco los tickets del show
       where: {
-        showId,
+        showId : decodIdN
       }
     })
 
@@ -160,7 +163,7 @@ router.get("/finish/:showId/:idViewer/:seatNumber/:status", async function (req,
 
     await Shows.update(updateShow, { // actualizo el show
       where: {
-        id: showId,
+        id: decodIdN,
       },
     })
   }

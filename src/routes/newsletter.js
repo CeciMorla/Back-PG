@@ -1,27 +1,22 @@
 const nodemailer = require("nodemailer");
 const { Router } = require("express");
-const { Viewers, Favorites, Shows } = require("../db");
+const { Viewers, Favorites } = require("../db");
 const router = Router();
 
 router.post("/", async (req, res, next) => {
   const { nameTheater } = req.body;
   const transporter = nodemailer.createTransport({
-    host: "smtp.ethereal.email",
-    port: 587,
+    service: "Gmail",
+    // host: "smtp.ethereal.email",
+    // port: 587,
     auth: {
-      user: "elena.wuckert95@ethereal.email",
-      pass: "R2MdTagJTnnFFazbGQ",
+      user: "asalallenaapp@gmail.com",
+      pass: "asalallena123",
     },
   });
-  //if viewer subscribed && viewer tiene favorite -- cuando hay post de Shows de Theater   --> newsletter / else-> newsletter - teatros de tu provincia
-  // dispatch desde el front una action que sea el post newsletter
-  // en el front put viewer actualizaria el isSusbcribed a true
-
-  // Favorites nombre del teatro, n
-
   let allViewers = await Viewers.findAll({
     where: {
-      isSubscribed: true, // buscar si esta suscripto y que tenga al teatro que hace el post como favorito
+      isSubscribed: true,
     },
     include: {
       model: Favorites,

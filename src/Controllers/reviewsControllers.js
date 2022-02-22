@@ -52,6 +52,7 @@ const postReviews = async (
 
 const getAllReviews = async () => {
   const allReviews = await Reviews.findAll({
+  order: ["id"],
   include: [{
     model: Theaters
   },

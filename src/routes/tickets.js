@@ -103,7 +103,7 @@ router.get("/finish/:id/:idV/:seatNumber/:status", async function (req, res) {
   if(status === "approved"){
     const show = await Shows.findOne({ //busco el show
       where: {
-        id : id
+        id : idV
       },
       include: {
         model: Tickets,
@@ -112,7 +112,7 @@ router.get("/finish/:id/:idV/:seatNumber/:status", async function (req, res) {
     console.log("este es el total inicial ", show.dataValues.total)
     const tickets = await Tickets.findAll({ //busco los tickets del show
       where: {
-        showId : id
+        showId : idV
       }
     })
     var entradasCompradas = [];
@@ -175,7 +175,7 @@ router.get("/finish/:id/:idV/:seatNumber/:status", async function (req, res) {
 
     await Shows.update(updateShow, { // actualizo el show
       where: {
-        id: id,
+        id: idV,
       },
     })
   }

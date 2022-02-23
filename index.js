@@ -7,7 +7,7 @@ conn.sync({ force: false }).then(async () => {
 
   getAllData();
 
-  server.listen(PORT, () => {
+  server.listen(PORT || 3001, () => {
     console.log("%s listening at 3001 - Data base loaded."); // eslint-disable-line no-console
   });
 });

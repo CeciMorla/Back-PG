@@ -39,10 +39,10 @@ router.post("/pay", async (req, res) => {
 try {
   console.log(req.body)
   const { seatNumber, showId, idViewer } = req.body;
-  const idShow = Buffer.from(showId)
-  const encodeIdSHow = idShow.toString('base64')
-  const viewerId = Buffer.from(idViewer)
-  const encodeIdViewer = viewerId.toString('base64')
+  //const idShow = Buffer.from(showId)
+  //const encodeIdSHow = idShow.toString('base64')
+  //const viewerId = Buffer.from(idViewer)
+  //const encodeIdViewer = viewerId.toString('base64')
   //console.log('encodeIdSHow',encodeIdSHow)
   //console.log('encodeIdViewer',encodeIdViewer)
   
@@ -64,9 +64,9 @@ try {
   let preference = {
     items: [],
     back_urls: {
-      success: `https://front-pg.vercel.app/ticket/finish/${encodeIdViewer}/${encodeIdSHow}/${seatNumber}`,
-      failure: `https://front-pg.vercel.app/ticket/finish/${encodeIdViewer}/${encodeIdSHow}/${seatNumber}`,
-      pending: `https://front-pg.vercel.app/ticket/finish/${encodeIdViewer}/${encodeIdSHow}/${seatNumber}`,
+      success: `https://front-pg.vercel.app/ticket/finish/${idViewer}/${showId}/${seatNumber}`,
+      failure: `https://front-pg.vercel.app/ticket/finish/${idViewer}/${showId}/${seatNumber}`,
+      pending: `https://front-pg.vercel.app/ticket/finish/${idViewer}/${showId}/${seatNumber}`,
     },
     auto_return: "approved",
   };
@@ -89,11 +89,11 @@ try {
   
 });
 
-router.get("/finish/:decodIdN/:decodIdVn/:seatNumber/:status", async function (req, res) {
+router.get("/finish/:id/:idV/:seatNumber/:status", async function (req, res) {
 
   
   
-  const { decodIdN, seatNumber, status, decodIdVn } = req.params
+  const { id, seatNumber, status, idV } = req.params
   //console.log(atob(showId));
   //const idShow = Buffer.from(showId,'base64')
   //const decodIdShow = idShow.toString('ascii');
@@ -103,7 +103,7 @@ router.get("/finish/:decodIdN/:decodIdVn/:seatNumber/:status", async function (r
   if(status === "approved"){
     const show = await Shows.findOne({ //busco el show
       where: {
-        id : decodIdN
+        id : id
       },
       include: {
         model: Tickets,
@@ -112,18 +112,20 @@ router.get("/finish/:decodIdN/:decodIdVn/:seatNumber/:status", async function (r
     console.log("este es el total inicial ", show.dataValues.total)
     const tickets = await Tickets.findAll({ //busco los tickets del show
       where: {
-        showId : decodIdN
+        showId : id
       }
     })
-
+    var entradasCompradas = [];
     for( let i = 0; i < tickets.length; i++) { // comparo todos los tickets con los que compré
       for (let j = 0; j < array.length; j++) {
         if (tickets[i].dataValues.seatNumber === array[j]) {
+          console.log(tickets[i].dataValues)
           tickets[i].dataValues.sold = true // si coinciden le cambio la propiedad "sold" a true
+          entradasCompradas.push(tickets[i].dataValues)
         }
       }
     }
-
+    console.log("estas entradas compré, ", entradasCompradas)
     tickets.map(async t => {
       await Tickets.update(t.dataValues, { // actualizo de a uno los tickets
         where: {
@@ -131,16 +133,23 @@ router.get("/finish/:decodIdN/:decodIdVn/:seatNumber/:status", async function (r
         }
       })
     })
+//tickets son los tickets del show
+//array son los asientos de los tickets ["!,4", "2-4"]
 
-    const entradasCompradas = tickets.filter( t => t.dataValues.sold === true)
+    //const entradasCompradas = tickets.filter( t => { if (array.indexOf(t.dataValues.seatNumber) > -1) return t } )
+    console.log(entradasCompradas)
     var newTotal = show.dataValues.total
+    const ticketsSold = show.dataValues.ticketsSold
+    console.log("esto es el inicio", newTotal)
     for (let i = 0; i < entradasCompradas.length; i++) {
-      //console.log(entradasCompradas[i].dataValues.price)
-      newTotal = newTotal + entradasCompradas[i].dataValues.price
+      console.log(entradasCompradas[i].price)
+      show.dataValues.ticketsSold = show.dataValues.ticketsSold + 1
+      newTotal = newTotal + entradasCompradas[i].price
+      console.log("esta es la suma", newTotal)
       //newTotal = newTotal + entradasCompradas[i].dataValues.price
       //return newTotal
     }
-    console.log(newTotal)
+    console.log("esto es el final", newTotal)
     //console.log("estas son  las entradas ", entradasCompradas)
 
     const asientos = show.seatsAvailable // me guardo los asientos que figuran disponibles
@@ -159,11 +168,14 @@ router.get("/finish/:decodIdN/:decodIdVn/:seatNumber/:status", async function (r
       if (clave === "total") {
         updateShow[clave] = newTotal
       }
+      // if (clave === "ticketsSold"){
+      //   updateShow[clave] = sumTickets
+      // }
     }
 
     await Shows.update(updateShow, { // actualizo el show
       where: {
-        id: decodIdN,
+        id: id,
       },
     })
   }

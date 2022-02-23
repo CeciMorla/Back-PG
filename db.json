@@ -4071,6 +4071,101 @@
         "released":false
     },
     {
+        "name": "El sillon",
+        "genre": "Comedia",
+        "length": "60 minutos",
+        "image":
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/el-sillon.jpg",
+        "summary":
+        "Descripción no disponible",
+        "ticketsQty": 3,
+        "seatsAvailable": ["2-5", "3-6", "3-9"],
+        "ticketsSold": 0,
+        "rated": "Apta para mayores de 13 años",
+        "date": "2022-02-24",
+        "time": "19:45",
+        "theaterId": 8,
+        "FavoriteId": 8,
+        "originPrice": 1100,
+        "released":false
+    }, 
+    {
+        "name": "Un balcon con vistas",
+        "genre": "Comedia",
+        "length": "60 minutos",
+        "image":
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/un-balcon-con-vistas.jpg",
+        "summary":
+        "Descripción no disponible",
+        "ticketsQty": 3,
+        "seatsAvailable": ["2-5", "2-9", "4-5"],
+        "ticketsSold": 0,
+        "rated": "Apta para mayores de 13 años",
+        "date": "2022-02-25",
+        "time": "19:00",
+        "theaterId": 10,
+        "FavoriteId": 10,
+        "originPrice": 1000,
+        "released":false
+    },
+    {
+        "name": "Nunca es tarde",
+        "genre": "Comedia",
+        "length": "60 minutos",
+        "image":
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/nunca-es-tarde--.jpg",
+        "summary":
+        "Descripción no disponible",
+        "ticketsQty": 4,
+        "seatsAvailable": ["2-7", "3-4", "3-8", "4-2"],
+        "ticketsSold": 0,
+        "rated": "Todas las edades",
+        "date": "2022-02-25",
+        "time": "18:45",
+        "theaterId": 17,
+        "FavoriteId": 17,
+        "originPrice": 1000,
+        "released":false
+    },
+    {
+        "name": "Pequeñas cosas fundamentales",
+        "genre": "Monólogo",
+        "length": "60 minutos",
+        "image":
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/pequenas-cosas-fundamentales.jpg",
+        "summary":
+        "Descripción no disponible",
+        "ticketsQty": 5,
+        "seatsAvailable": ["2-4", "3-5", "3-8", "4-2", "4-5"],
+        "ticketsSold": 0,
+        "rated": "Apta para mayores de 13 años",
+        "date": "2022-02-24",
+        "time": "19:15",
+        "theaterId": 19,
+        "FavoriteId": 19,
+        "originPrice": 1200,
+        "released":false
+    },
+    {
+        "name": "Bajo terapia",
+        "genre": "Comedia",
+        "length": "80 minutos",
+        "image":
+        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/bajo-terapia.jpg",
+        "summary":
+        "Descripción no disponible",
+        "ticketsQty": 4,
+        "seatsAvailable": ["2-4", "2-6", "3-5", "3-9"],
+        "ticketsSold": 0,
+        "rated": "Apta para mayores de 16 años",
+        "date": "2022-02-24",
+        "time": "19:30",
+        "theaterId": 23,
+        "FavoriteId": 23,
+        "originPrice": 1000,
+        "released":false
+    },
+    {
         "name": "Soy (Una gaviota)",
         "genre": "Musical",
         "length": "80 minutos",
@@ -4240,26 +4335,7 @@
         "FavoriteId": 8,
         "originPrice": 1000,
         "released":false
-    },
-    {
-        "name": "El sillon",
-        "genre": "Comedia",
-        "length": "60 minutos",
-        "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/el-sillon.jpg",
-        "summary":
-        "",
-        "ticketsQty": 3,
-        "seatsAvailable": ["2-5", "3-6", "3-9"],
-        "ticketsSold": 0,
-        "rated": "Apta para mayores de 13 años",
-        "date": "2022-02-24",
-        "time": "19:45",
-        "theaterId": 8,
-        "FavoriteId": 8,
-        "originPrice": 1100,
-        "released":false
-    },    
+    },   
     {
         "name": "Terrenal",
         "genre": "Tragedia",
@@ -4374,25 +4450,6 @@
         "theaterId": 10,
         "FavoriteId": 10,
         "originPrice": 1400,
-        "released":false
-    },
-    {
-        "name": "Un balcon con vistas",
-        "genre": "Comedia",
-        "length": "60 minutos",
-        "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/un-balcon-con-vistas.jpg",
-        "summary":
-        "",
-        "ticketsQty": 3,
-        "seatsAvailable": ["2-5", "2-9", "4-5"],
-        "ticketsSold": 0,
-        "rated": "Apta para mayores de 13 años",
-        "date": "2022-02-25",
-        "time": "19:00",
-        "theaterId": 10,
-        "FavoriteId": 10,
-        "originPrice": 1000,
         "released":false
     },
     {
@@ -4790,8 +4847,8 @@
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-25",
         "time": "18:15",
-        "theaterId": 15,
-        "FavoriteId": 15,
+        "theaterId": 1,
+        "FavoriteId": 1,
         "originPrice": 1300,
         "released":false
     },    
@@ -4888,25 +4945,6 @@
         "theaterId": 17,
         "FavoriteId": 17,
         "originPrice": 1500,
-        "released":false
-    },
-    {
-        "name": "Nunca es tarde",
-        "genre": "Comedia",
-        "length": "60 minutos",
-        "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/nunca-es-tarde--.jpg",
-        "summary":
-        "",
-        "ticketsQty": 4,
-        "seatsAvailable": ["2-7", "3-4", "3-8", "4-2"],
-        "ticketsSold": 0,
-        "rated": "Todas las edades",
-        "date": "2022-02-25",
-        "time": "18:45",
-        "theaterId": 17,
-        "FavoriteId": 17,
-        "originPrice": 1000,
         "released":false
     },
     {
@@ -5062,25 +5100,6 @@
         "released":false
     },
     {
-        "name": "Pequeñas cosas fundamentales",
-        "genre": "Monólogo",
-        "length": "60 minutos",
-        "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/pequenas-cosas-fundamentales.jpg",
-        "summary":
-        "",
-        "ticketsQty": 5,
-        "seatsAvailable": ["2-4", "3-5", "3-8", "4-2", "4-5"],
-        "ticketsSold": 0,
-        "rated": "Apta para mayores de 13 años",
-        "date": "2022-02-24",
-        "time": "19:15",
-        "theaterId": 19,
-        "FavoriteId": 19,
-        "originPrice": 1200,
-        "released":false
-    },
-    {
         "name": "La pipa de la paz",
         "genre": "Comedia",
         "length": "80 minutos",
@@ -5094,8 +5113,8 @@
         "rated": "Todas las edades",
         "date": "2022-02-24",
         "time": "19:45",
-        "theaterId": 19,
-        "FavoriteId": 19,
+        "theaterId": 1,
+        "FavoriteId": 1,
         "originPrice": 1300,
         "released":false
     },
@@ -5208,8 +5227,8 @@
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "20:00",
-        "theaterId": 21,
-        "FavoriteId": 21,
+        "theaterId": 1,
+        "FavoriteId": 1,
         "originPrice": 1500,
         "released":false
     },
@@ -5265,8 +5284,8 @@
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-24",
         "time": "19:30",
-        "theaterId": 22,
-        "FavoriteId": 22,
+        "theaterId": 1,
+        "FavoriteId": 1,
         "originPrice": 1200,
         "released":false
     },
@@ -5303,8 +5322,8 @@
         "rated": "Apta para mayores de 16 años",
         "date": "2022-02-25",
         "time": "18:45",
-        "theaterId": 22,
-        "FavoriteId": 22,
+        "theaterId": 1,
+        "FavoriteId": 1,
         "originPrice": 1200,
         "released":false
     },
@@ -5347,25 +5366,6 @@
         "released":false
     },
     {
-        "name": "Bajo terapia",
-        "genre": "Comedia",
-        "length": "80 minutos",
-        "image":
-        "https://imgplateanet.com.ar/imagenes/img/imagenes/302x302/bajo-terapia.jpg",
-        "summary":
-        "",
-        "ticketsQty": 4,
-        "seatsAvailable": ["2-4", "2-6", "3-5", "3-9"],
-        "ticketsSold": 0,
-        "rated": "Apta para mayores de 16 años",
-        "date": "2022-02-24",
-        "time": "19:30",
-        "theaterId": 23,
-        "FavoriteId": 23,
-        "originPrice": 1000,
-        "released":false
-    },
-    {
         "name": "Las chicas de la culpa",
         "genre": "Monólogo",
         "length": "80 minutos",
@@ -5379,8 +5379,8 @@
         "rated": "Apta para mayores de 13 años",
         "date": "2022-02-25",
         "time": "21:15",
-        "theaterId": 23,
-        "FavoriteId": 23,
+        "theaterId": 1,
+        "FavoriteId": 1,
         "originPrice": 1000,
         "released":false
     },    
@@ -5417,8 +5417,8 @@
             "rated": "Apta para mayores de 13 años",
             "date": "2022-02-26",
             "time": "21:45",
-            "theaterId": 24,
-            "FavoriteId": 24,
+            "theaterId": 1,
+            "FavoriteId": 1,
             "originPrice": 1200,
             "released":false
         },
@@ -5436,8 +5436,8 @@
             "rated": "Apta para mayores de 13 años",
             "date": "2022-02-24",
             "time": "19:30",
-            "theaterId": 24,
-            "FavoriteId": 24,
+            "theaterId": 1,
+            "FavoriteId": 1,
             "originPrice": 1000,
             "released":false
         }
